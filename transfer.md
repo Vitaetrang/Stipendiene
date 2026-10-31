@@ -1,30 +1,27 @@
 # transfer.md – handoff for the next session
 
-## Current state (2026-10-31, second update)
-- **Goal changed:** the owner wants to start a **new Bachelor in Germany as a freshman**
-  (Maschinenbau / Mechanical Engineering or another engineering major) and needs
-  money for living costs. VGU exchange programmes are no longer the main goal.
-- `scholarships.md` restructured around that goal: admission route (APS, TestAS,
-  direct access vs Studienkolleg, C1 vs English-taught), money for the first year
-  (Deutschlandstipendium, Studienstiftung, uni scholarships), later Bachelor
-  foundations (need B2–C1), cost savers and work rules, things to use now in Vietnam,
-  Master section.
+## Current state (2026-10-31, daily run)
+- Goal: new Bachelor in Germany as a freshman (Maschinenbau or other engineering),
+  German B1 only, needs living-cost money. See AGENTS.md profile.
+- `scholarships.md` has sections 1-6 plus "Neu gefunden". Daily run 2026-10-31 added:
+  TU Darmstadt Studienstart-Stipendium (2,400 EUR one-off, only PreCIS participants,
+  2 places, deadline 30 Sep), STIBET OTH Regensburg (250-992 EUR/month, from 3rd
+  semester, deadline 20 May each round), NORDAKADEMIE dual study (salary, B2-C1),
+  TestAS dates (26 Nov 2026, 25 Feb 2027, 18 Mar 2027), HAW Hamburg Deutschland-
+  stipendium window 1-31 Dec 2026 confirmed (too early for owner), blocked account
+  stays 992 EUR in 2027 per portal (not official), e-fellows: official page shows no
+  cash amount / no deadline -> earlier "600 EUR, 15.11.2026" entry is unconfirmed.
 - **Daily scheduled task** "Tägliche Stipendien-Suche" runs every day at 06:47
-  (Asia/Ho_Chi_Minh), id `trig_01NHy4DuzJLeXd3TY1gtSCiP`, automatic approval, push
-  notification on. Its prompt was updated to the new goal.
-- Conversation language with the owner: **B1 German** (see AGENTS.md), with an
-  **English gloss after every B1/B2 word**; known words go to `bekannte-woerter.md`
-  (owner will tell which words they already know).
-- Source check done (2026-10-31): Studienstiftung and Walter Blüchert are NOT open to
-  the owner (§ 8 BAföG / refugees only); many other foundations probably need § 8 BAföG
-  too → verify each. APS fee 150 USD, TestAS required, 2 full study years → direct
-  subject-restricted access. Kaiserslautern: uni-assist only, deadline 15 July (WS);
-  its Studienkolleg needs B2, online application by 14 April (WS).
-
-- **Website (artifact)** with all Maschinenbau scholarships: https://claude.ai/artifact/AUAVpvAkhbAWwTyM4LFArx
-  (source copy: `website/stipendien-maschinenbau.html`). To update it from another
-  session, read it with the Artifact tool and republish with `url` set to that link.
-  Data lives in the `DATA` array in the page script; `{…}` marks an English gloss.
+  (Asia/Ho_Chi_Minh), id `trig_01NHy4DuzJLeXd3TY1gtSCiP`.
+- Conversation language: B1 German with English gloss after every B1/B2 word;
+  known words in `bekannte-woerter.md` (still empty).
+- **Website (artifact)**: https://claude.ai/artifact/AUAVpvAkhbAWwTyM4LFArx
+  (source copy `website/stipendien-maschinenbau.html`, data in the `DATA` array,
+  `{…}` = gloss). NOT yet updated with the daily-run finds of 2026-10-31.
+- Source check notes: Studienstiftung, Walter Blüchert, sdw, Villigst, Cusanus = not
+  eligible. APS 150 USD + TestAS; 2 full study years -> direct subject-restricted access.
+  Studienkolleg Konstanz (T-Kurs) admits with B1, deadline 1 May 2027 for WS 2027/28
+  (HTWG page could not be re-fetched today; still from earlier check).
 
 ## Open questions for the owner (ask once, record in AGENTS.md profile)
 1. How many years at VGU will be passed before applying? (2 passed years → direct,
@@ -34,20 +31,19 @@
 4. Target cities / states (tuition-free vs Baden-Württemberg / TUM).
 
 ## Next steps
-1. Check with anabin / uni-assist "Check: Hochschulzugang" whether Mechatronics at
-   VGU counts as related to Maschinenbau for direct access.
-2. Check the current APS procedure for a **second Bachelor** (TestAS + interview).
-3. Fill "unklar – prüfen" items and check for each foundation whether non-EU
-   student-visa holders (no § 8 BAföG) can apply: sdw, Cusanus, Villigst, Avicenna,
-   Böckler. Ask APS Hanoi about rules for a second Bachelor.
-4. Search more first-year options: university merit scholarships for international
-   Bachelor freshmen (e.g. at Kaiserslautern, HAW Hamburg, THWS, OTH Regensburg,
-   OVGU Magdeburg), STIBET, company scholarships in Maschinenbau (Bosch, Siemens,
-   Festo, Schaeffler, ZF), dual studies (duales Studium = paid salary + study!),
-   Studienkolleg + job rules.
-5. Note deadlines for WS 2027/28: uni-assist (usually 15 July, earlier for some),
-   APS processing time, TestAS dates, Deutschlandstipendium (summer 2027),
-   DAAD Hochschulwinterkurse (1 Jun – 31 Jul 2027).
+1. Update the website artifact with the 2026-10-31 daily finds (read it, edit DATA, republish with url).
+2. Verify e-fellows "Ingenieurs-Stipendium 600 EUR / 15.11.2026" on an official page or remove it.
+3. TestAS: find registration deadlines for 25 Feb / 18 Mar 2027 on testas.de; check if
+   TestAS centre exists in Hanoi/HCMC (Goethe-Institut).
+4. Check with uni-assist / anabin whether VGU Mechatronics counts as related to
+   Maschinenbau (direct access); APS rules for a second Bachelor.
+5. More first-year money: university merit scholarships for international Bachelor
+   freshmen (HAW Hamburg, THWS, OVGU Magdeburg, TU Chemnitz, TU Ilmenau), company
+   scholarships (Bosch, Siemens, Festo, Schaeffler, ZF), more dual-study providers
+   that accept non-EU applicants.
+6. Watch: Deutschlandstipendium rounds summer 2027, uni-assist deadlines WS 2027/28
+   (usually 15 July), DAAD Hochschulwinterkurse (1 Jun - 31 Jul 2027), Studienkolleg
+   Konstanz 1 May 2027, Kaiserslautern Studienkolleg 14 Apr 2027.
 
 ## Background
 - Full living-cost scholarships for international first-year Bachelor students are
@@ -64,3 +60,4 @@
 - 2026-10-31 – Sources checked one by one; corrections (Studienstiftung, Walter Blüchert); vocabulary-gloss rule added.
 - 2026-10-31 – Owner wants only B1: Studienkollegs with B1 admission researched (Konstanz confirmed, Bavaria Vorkurs).
 - 2026-10-31 – Maschinenbau scholarship research; website published; sdw/Villigst/Cusanus marked not eligible.
+- 2026-10-31 – Daily run: TU Darmstadt Studienstart, STIBET OTH, NORDAKADEMIE dual, TestAS dates added; e-fellows entry flagged unconfirmed.
