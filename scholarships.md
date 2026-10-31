@@ -18,7 +18,7 @@ Stand (as of): 2026-10-31 · **Ziel (goal): neuer Bachelor in Deutschland (Masch
 |---|---|---|
 | **APS-Zertifikat** | Die Akademische Prüfstelle (academic evaluation centre) an der Deutschen Botschaft (embassy) Hanoi prüft (checks) deine Zeugnisse (certificates). Gebühr (fee): **150 USD**, digital +20 USD. Abgabe (submission) jederzeit (anytime). | Zusätzlich (additionally) **TestAS** (3× pro Jahr, Anmeldung (registration) bei testas.de). Zweiter Bachelor: Regeln (rules) direkt bei der APS fragen. |
 | **Direkt zur Uni** | **2 Vollzeit-Studienjahre (full-time study years)** an einer anerkannten (recognised) Uni in Vietnam → direkter, **fachgebundener (subject-restricted)** Zugang (access) | Mechatronik → Maschinenbau: Verwandtschaft (relation) der Fächer mit uni-assist prüfen |
-| **Studienkolleg (T-Kurs)** | 1 Jahr Vorbereitung (preparation), dann Feststellungsprüfung (assessment exam). Staatliche (state) Studienkollegs sind **kostenlos (free)**. 1 Studienjahr in Vietnam reicht (is enough), wenn die Schulnoten nicht reichen. | Meistens **B2** nötig (needed). Beispiel (example) Kaiserslautern: B2, Online-Bewerbung (application) bis **14. April** fürs Wintersemester |
+| **Studienkolleg (T-Kurs)** | 1 Jahr Vorbereitung (preparation), dann Feststellungsprüfung (assessment exam). Staatliche (state) Studienkollegs sind **kostenlos (free)**. 1 Studienjahr in Vietnam reicht (is enough), wenn die Schulnoten nicht reichen. | **Mit B1 möglich (possible):** z. B. **Studienkolleg Konstanz** (T-Kurs, B1 offiziell (officially), 192,50 € Verwaltungsgebühr (admin fee) pro Semester, Bewerbung bis **1. Mai 2027** für WS 2027/28). Bayern: Aufnahmeprüfung (entrance exam) B1+/B2, aber **Vorkurs (pre-course) mit B1** möglich. Viele andere: **B2** (z. B. Kaiserslautern: B2, Bewerbung bis 14. April). Unterricht auf B2/C1, am Ende **C1** – du lernst Deutsch im Kolleg weiter. |
 | **Sprache fürs Studium** | Deutsch: ca. **C1** (DSH-2 / TestDaF 4×4). Englisch: IELTS/TOEFL | Englischer Studiengang (degree programme) = vielleicht (maybe) schneller |
 
 **Englische Maschinenbau-Bachelor ohne Studiengebühren (Beispiele):**
@@ -134,3 +134,6 @@ Stand (as of): 2026-10-31 · **Ziel (goal): neuer Bachelor in Deutschland (Masch
 - KAS: https://www.e-fellows.net/stipendien-datenbank/auslaenderfoerderung
 - Böll: https://www.boell.de/de/stipendium-studium
 - ÖSD Hanoi (IVES): https://osd.at/en/education-with-quality-at-oesd-exam-centre-ives-in-hanoi/
+- Studienkolleg Konstanz (B1): https://www.htwg-konstanz.de/en/academics/center-for-international-students-konstanz/center-for-international-students/courses
+- Bayern StKO § 6 (B1+/B2, Vorkurs mit B1): https://www.gesetze-bayern.de/Content/Document/BayStKO2019-6
+- uni-assist zum Studienkolleg: https://www.uni-assist.de/bewerben/vorab-informieren/studienkolleg/

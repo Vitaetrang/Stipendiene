@@ -25,8 +25,13 @@ Track them in `scholarships.md`, keep `transfer.md` as the handoff for the next 
 - Admission route Vietnam → German Bachelor: APS certificate (+ TestAS for Bachelor),
   direct subject-restricted access after 2 passed study years in Vietnam, otherwise
   Studienkolleg (T-Kurs). Always check anabin / uni-assist for the current rules.
-- Language: German-taught Bachelor ≈ C1 (DSH-2 / TestDaF 4×4); state Studienkolleg
-  mostly B2; English-taught Bachelor needs IELTS/TOEFL. Track both routes.
+- Language: German-taught Bachelor ≈ C1 (DSH-2 / TestDaF 4×4); English-taught
+  Bachelor needs IELTS/TOEFL. Track both routes.
+- **Owner wants to stop at a B1 certificate (2026-10-31).** So track Studienkollegs
+  that admit with **B1** (confirmed: Studienkolleg Konstanz, T-Kurs; Bavaria allows a
+  Vorkurs with B1). Most others need B2. Studienkolleg teaching is B2/C1 and the final
+  exam expects ~C1, so German keeps improving there. Alternative without more German:
+  English-taught Bachelor with direct access (2 passed VGU years).
 - Most foundations need B2–C1 and enrolment in Germany. So prioritise: (1) things
   open to first-semester internationals (Deutschlandstipendium with admission letter,
   Studienstiftung self-application in 1st/2nd semester, university scholarships,

@@ -57,3 +57,4 @@
 - 2026-10-31 – Repo set up, first research round, daily task created.
 - 2026-10-31 – Goal changed to new Bachelor in Germany; list, AGENTS.md and daily task updated.
 - 2026-10-31 – Sources checked one by one; corrections (Studienstiftung, Walter Blüchert); vocabulary-gloss rule added.
+- 2026-10-31 – Owner wants only B1: Studienkollegs with B1 admission researched (Konstanz confirmed, Bavaria Vorkurs).
