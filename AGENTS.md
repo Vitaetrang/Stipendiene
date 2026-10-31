@@ -9,12 +9,30 @@ funding, student jobs (Werkstudent) and anything else that reduces costs.
 Track them in `scholarships.md`, keep `transfer.md` as the handoff for the next session.
 
 ## Owner profile (no personal IDs here)
-- Vietnamese, lives in Vietnam (Hanoi area), studies **Mechatronics (Bachelor)** at the
-  **Vietnamese-German University (VGU)**. Partner universities in Germany are relevant
-  (e.g. Frankfurt UAS runs the VGU exchange; confirm which partner covers Mechatronics).
+- Vietnamese, lives in Vietnam (Hanoi area), currently studies **Mechatronics (Bachelor)**
+  at the **Vietnamese-German University (VGU)** (taught in English).
+- **GOAL (decided 2026-10-31): start a NEW Bachelor in Germany as a freshman**
+  (Erstsemester), probably **Maschinenbau / Mechanical Engineering** or another
+  engineering major. Main need: **money for living costs** ("Stipendium zum Bleiben").
+  Exchange semesters / VGU-to-Germany programmes are NOT the main goal any more.
 - German level: **around B1, not yet certified**. Plans to take **ÖSD B1** later
   (ÖSD centre in Hanoi: IVES, Cau Giay – offers ZB1).
-- Unknown yet (ask once, then record here): year of study, GPA, Master plans, target cities.
+- Unknown yet (ask once, then record here): how many years passed at VGU, GPA,
+  high-school grades (Vietnamese 10-point scale), English test score, target start
+  semester, German- or English-taught programme, target cities.
+
+## What matters for this goal
+- Admission route Vietnam → German Bachelor: APS certificate (+ TestAS for Bachelor),
+  direct subject-restricted access after 2 passed study years in Vietnam, otherwise
+  Studienkolleg (T-Kurs). Always check anabin / uni-assist for the current rules.
+- Language: German-taught Bachelor ≈ C1 (DSH-2 / TestDaF 4×4); state Studienkolleg
+  mostly B2; English-taught Bachelor needs IELTS/TOEFL. Track both routes.
+- Most foundations need B2–C1 and enrolment in Germany. So prioritise: (1) things
+  open to first-semester internationals (Deutschlandstipendium with admission letter,
+  Studienstiftung self-application in 1st/2nd semester, university scholarships,
+  STIBET), (2) cost savers (tuition-free states, free state Studienkollegs),
+  (3) legal work (140 full / 280 half days per year, Minijob limit), (4) foundation
+  scholarships for later Bachelor semesters once German is C1.
 
 ## Language rule (important)
 - Talk to the owner in **simple German at B1 level**: short sentences, Präsens/Perfekt,
@@ -36,8 +54,10 @@ Track them in `scholarships.md`, keep `transfer.md` as the handoff for the next 
    deadline (exact date if known), link, status, fit for owner (hoch / mittel / später).
 4. Never invent amounts or deadlines. If a page doesn't say it, write "unklar – prüfen".
 5. Mark deadlines that are **less than 60 days away** with ⚠️ at the top of the reply.
-6. Prefer things the owner can use **now or soon** (as a VGU Bachelor student) over
-   far-future Master/PhD items, but keep the Master/PhD items in the list.
+6. Prefer things for a **first Bachelor year in Germany as an international student**
+   over Master/PhD items, but keep Master items in their own section.
+7. Be honest: full living-cost scholarships for international first-year Bachelor
+   students are rare. Don't oversell; say what each item really covers.
 
 ## Files
 - `scholarships.md` – the tracker. Add new finds under "Neu gefunden" with the date

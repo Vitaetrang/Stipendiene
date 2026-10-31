@@ -1,43 +1,50 @@
 # transfer.md – handoff for the next session
 
-## Current state (2026-10-31)
-- Repo created for scholarship hunting in Germany. Files: `AGENTS.md` (rules),
-  `scholarships.md` (tracker, simple German), `transfer.md` (this file).
-- First research round done: VGU talent scholarship, DAAD "Type II" via VGU,
-  Frankfurt UAS exchange (usually DAAD-funded), DAAD summer/winter courses,
-  Deutschlandstipendium, FES, RLS, Böll, KAS, DAAD Master study scholarship,
-  blocked-account amount, ÖSD B1 centre in Hanoi (IVES).
+## Current state (2026-10-31, second update)
+- **Goal changed:** the owner wants to start a **new Bachelor in Germany as a freshman**
+  (Maschinenbau / Mechanical Engineering or another engineering major) and needs
+  money for living costs. VGU exchange programmes are no longer the main goal.
+- `scholarships.md` restructured around that goal: admission route (APS, TestAS,
+  direct access vs Studienkolleg, C1 vs English-taught), money for the first year
+  (Deutschlandstipendium, Studienstiftung, uni scholarships), later Bachelor
+  foundations (need B2–C1), cost savers and work rules, things to use now in Vietnam,
+  Master section.
 - **Daily scheduled task** "Tägliche Stipendien-Suche" runs every day at 06:47
   (Asia/Ho_Chi_Minh), id `trig_01NHy4DuzJLeXd3TY1gtSCiP`, automatic approval, push
-  notification on. It updates these files and pushes to `main`.
+  notification on. Its prompt was updated to the new goal.
 - Conversation language with the owner: **B1 German** (see AGENTS.md).
 
 ## Open questions for the owner (ask once, record in AGENTS.md profile)
-1. Which year of study at VGU? Current GPA?
-2. Plan: exchange semester / internship / thesis in Germany during the Bachelor,
-   or Master in Germany after it? Target cities or universities?
-3. Which German partner university is responsible for VGU Mechatronics?
+1. How many years at VGU will be passed before applying? (2 passed years → direct,
+   subject-restricted access; otherwise Studienkolleg.)
+2. High-school grades (6 relevant subjects ≥ 6.5/10, none below 4?) and English score.
+3. German-taught (needs C1) or English-taught programme? Target start: WS 2027/28?
+4. Target cities / states (tuition-free vs Baden-Württemberg / TUM).
 
 ## Next steps
-1. Check in the DAAD portal whether the Hochschulsommerkurse 2027 call (deadline
-   30 Oct per DAAD FAQ) is really closed. If yes, put Hochschulwinterkurse
-   (apply 1 Jun – 31 Jul 2027) in the owner's calendar.
-2. Owner should ask the VGU International Office / DAAD contact at VGU about
-   **DAAD Type I / Type II scholarships**: amount, criteria, deadline, whether
-   Mechatronics students qualify for the Frankfurt UAS exchange.
-3. Find out the details still marked "unklar – prüfen" in `scholarships.md`
-   (Böll amount, RLS amount and deadline, DAAD Type II details).
-4. Look for more: Hans-Seidel-Stiftung, Friedrich-Naumann-Stiftung (freiheit.org),
-   Studienstiftung, STIBET grants at partner universities, Erasmus+ ICM with VGU,
-   internship funding (e.g. DAAD/industry), company scholarships in Mechatronics
-   (Bosch, Siemens, Festo, Schaeffler), Werkstudent rules for internationals.
-5. ÖSD B1 at IVES Hanoi: get next exam dates and price.
+1. Check with anabin / uni-assist "Check: Hochschulzugang" whether Mechatronics at
+   VGU counts as related to Maschinenbau for direct access.
+2. Check the current APS procedure for a **second Bachelor** (TestAS + interview).
+3. Fill "unklar – prüfen" amounts (sdw, Cusanus, Villigst, Avicenna, Böckler,
+   Walter Blüchert).
+4. Search more first-year options: university merit scholarships for international
+   Bachelor freshmen (e.g. at Kaiserslautern, HAW Hamburg, THWS, OTH Regensburg,
+   OVGU Magdeburg), STIBET, company scholarships in Maschinenbau (Bosch, Siemens,
+   Festo, Schaeffler, ZF), dual studies (duales Studium = paid salary + study!),
+   Studienkolleg + job rules.
+5. Note deadlines for WS 2027/28: uni-assist (usually 15 July, earlier for some),
+   APS processing time, TestAS dates, Deutschlandstipendium (summer 2027),
+   DAAD Hochschulwinterkurse (1 Jun – 31 Jul 2027).
 
 ## Background
-- Most foundation scholarships (KAS, RLS) require **B2** German; FES needs
-  "very good German" and enrolment in Germany. So moving from B1 → B2 opens many doors.
-- Blocked account for a student visa: 992 €/month = 11,904 €/year (since Jan 2025;
-  check the embassy before applying).
+- Full living-cost scholarships for international first-year Bachelor students are
+  rare; realistic plan = no tuition + 300 € scholarships + legal work
+  (140 full / 280 half days, Minijob 603 €/month, min. wage 13.90 €/h in 2026)
+  + bigger foundation scholarship later with C1.
+- Blocked account for a student visa: 992 €/month = 11,904 €/year (check embassy).
+- Duales Studium (company pays salary during study) is worth researching – usually
+  needs good German (B2–C1).
 
 ## Log
 - 2026-10-31 – Repo set up, first research round, daily task created.
+- 2026-10-31 – Goal changed to new Bachelor in Germany; list, AGENTS.md and daily task updated.

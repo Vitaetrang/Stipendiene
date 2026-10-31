@@ -1,54 +1,79 @@
 # Stipendien-Liste (Stipendien für Deutschland)
 
-Stand: 2026-10-31 · Profil: Mechatronik-Bachelor an der VGU, Deutsch ca. B1
+Stand: 2026-10-31 · **Ziel: neuer Bachelor in Deutschland (Maschinenbau o. ä.)** · Deutsch ca. B1
 
-**Passung (fit):** hoch = jetzt nutzbar · mittel = bald / mit Bedingungen · später = für den Master
+**Passung (fit):** hoch = für dich als Erstsemester · mittel = mit Bedingungen (z. B. C1) · später = Master
 
----
-
-## ⚠️ Gerade wichtig
-
-- **DAAD Hochschulsommerkurse 2027** – Laut DAAD-FAQ ist die Bewerbungsfrist *(deadline)*
-  **1. September bis 30. Oktober**. Das war gestern. → Im DAAD-Portal prüfen, ob es noch offen ist.
-  Sonst: nächste Chance sind die **Hochschulwinterkurse** (Bewerbung **1. Juni – 31. Juli 2027**).
+> **Ehrlich gesagt:** Ein volles Stipendium für das **Leben** im **ersten Bachelor-Jahr** ist für
+> internationale Studierende selten. Realistisch ist ein **Mix**: keine Studiengebühren +
+> kleines Stipendium (300 €) + Nebenjob + später ein großes Stipendium (mit C1).
 
 ---
 
-## A. Jetzt nutzbar (als VGU-Student)
+## 1. Der Weg zum Studienplatz (Zulassung / admission)
 
-| Name | Wer zahlt | Wie viel | Bedingungen | Frist | Passung |
-|---|---|---|---|---|---|
-| **VGU Talent-Stipendium** (Typ A/B/C) | VGU | 100 % / 50 % / 25 % der Studiengebühren *(tuition)* für 1 Jahr | Ab 2. Jahr: nach Notendurchschnitt *(GPA)* im Studiengang – Top 5 % = A, nächste 5 % = B, nächste 10 % = C | Jedes Jahr, automatisch nach Noten | hoch |
-| **DAAD-Stipendium „Typ II“** über die VGU | DAAD | unklar – prüfen | Für ein Studium in Deutschland; kann man mit dem Talent-Stipendium kombinieren | unklar – beim VGU International Office fragen | hoch |
-| **Austauschsemester** an der Frankfurt UAS | meist DAAD | unklar – prüfen | Für VGU-Studierende; die Seite nennt CSE und ECE – ob Mechatronik dabei ist: fragen | unklar | mittel |
-| **DAAD Hochschulwinterkurse** | DAAD | Kurs, Unterkunft, Versicherung, Reisekosten-Pauschale | Ausländische Studierende; Kurse nur auf Deutsch → Deutsch nötig | **1. Juni – 31. Juli 2027** | hoch (gut für Deutsch!) |
-| **DAAD Hochschulsommerkurse** | DAAD | wie oben | wie oben | 1. Sep – 30. Okt (2026: vermutlich vorbei) | hoch – nächste Runde Herbst 2027 |
+| Schritt | Was | Wichtig für dich |
+|---|---|---|
+| **APS-Zertifikat** | Prüfung deiner Zeugnisse an der Deutschen Botschaft Hanoi. Für **jeden** Weg nötig. | Für Bachelor: zusätzlich **TestAS**. Bei zweitem Bachelor / Fachwechsel: kurzes **Interview** (ca. 15 Min.) |
+| **Direkt zur Uni** | Mit **2 erfolgreichen Studienjahren** in Vietnam: direkter Zugang, aber nur im **Fach der Vorbildung** (fachgebunden) | Mechatronik → Maschinenbau ist nah. Mit anabin / uni-assist prüfen! |
+| **Studienkolleg (T-Kurs)** | 1 Jahr Vorbereitung, dann Feststellungsprüfung. Staatliche Studienkollegs sind **kostenlos**. | Aufnahmeprüfung ca. **B1+/B2**, viele staatliche wollen **B2** |
+| **Sprache fürs Studium** | Deutsch: ca. **C1** (DSH-2 / TestDaF 4×4). Englisch: IELTS/TOEFL | Du lernst an der VGU auf Englisch → **englischer Studiengang** ist ein schnellerer Weg |
 
-## B. Wenn du in Deutschland studierst (Austausch oder Master)
+**Englische Maschinenbau-Bachelor ohne Studiengebühren (Beispiele):**
+- Hochschule **Kaiserslautern** – Mechanical Engineering B.Eng., 7 Semester, nur ca. 380 € Semesterbeitrag
+- **HAW Hamburg** – Mechanical Engineering B.Sc.
+- **THWS** Würzburg-Schweinfurt – Mechanical Engineering B.Eng.
+- **OTH Regensburg** – International Mechanical Engineering B.Eng.
+- **OVGU Magdeburg** – Engineering Science B.Sc.
+- (In Baden-Württemberg, z. B. KIT, Aalen, Offenburg: **1.500 € pro Semester** für Nicht-EU)
 
-| Name | Wer zahlt | Wie viel | Bedingungen | Frist | Passung |
-|---|---|---|---|---|---|
-| **Deutschlandstipendium** | Bund + Firma (halb-halb) | **300 € / Monat** | An einer deutschen Hochschule eingeschrieben *(enrolled)*; Noten **und** Engagement zählen | Je Uni, meist Sommer (z. B. TUM: Sommer 2027 für 2027/28) | mittel |
-| **Friedrich-Ebert-Stiftung (FES)** | FES | **992 € / Monat** (Studium) | Schon in Deutschland eingeschrieben; sehr gutes Deutsch; Bewerbung auf Deutsch. Bachelor: bis 3 Semester vor Ende | je Programm | später |
-| **Rosa-Luxemburg-Stiftung** | RLS (Auswärtiges Amt) | unklar – prüfen | Eingeschrieben oder Zulassung *(admission)*; **Deutsch B2** mit Nachweis; Engagement | unklar – prüfen | später |
+## 2. Geld für das erste Bachelor-Jahr
 
-## C. Für den Master in Deutschland (nach dem Bachelor)
+| Name | Wie viel | Bedingungen | Frist | Passung |
+|---|---|---|---|---|
+| **Deutschlandstipendium** | **300 € / Monat**, mind. 2 Semester | Alle Nationalitäten. Bewerbung schon mit **Zulassungsbescheid** (letter of acceptance) möglich (z. B. FU Berlin, TUM). Noten **und** Engagement zählen | Je Uni, meist **Sommer** für das Wintersemester. 2026/27 ist vorbei → nächste Runde Sommer 2027 | hoch |
+| **Studienstiftung des deutschen Volkes** (Selbstbewerbung) | **300 € / Monat** Studienkostenpauschale + bis zu **855 €** Lebenshaltung (abhängig vom Einkommen der Familie) | Im **1. oder 2. Fachsemester**; laut Uni Trier offen für internationale Studierende, kein Zertifikat, aber du musst auf Deutsch sprechen können. Online-Test | 2026 war die Testanmeldung bis **12. Februar** → jedes Jahr ca. Januar/Februar | hoch (wenn du schon in DE studierst) |
+| **Uni-Stipendien / STIBET** | unklar – je Uni | Viele Unis haben eigene Stipendien für Internationale (oft ab 2. Semester) | je Uni | mittel |
 
-| Name | Wer zahlt | Wie viel | Bedingungen | Frist | Passung |
-|---|---|---|---|---|---|
-| **DAAD Studienstipendium (MINT/STEM)** | DAAD | ca. **992 € / Monat**, 10–24 Monate | Guter Bachelor; Abschluss max. 6 Jahre alt; max. 15 Monate in Deutschland | ca. **Oktober** (jedes Jahr prüfen) | später |
-| **Heinrich-Böll-Stiftung** | Böll | unklar – prüfen | Master in Deutschland; Bewerbung auch **vor** Studienbeginn möglich; Vorrang für DAC-Länder (Vietnam ist DAC-Land) aus dem Heimatland | **15.01.–01.03.2027** und **15.07.–01.09.2027** | später |
-| **Konrad-Adenauer-Stiftung** | KAS | **812 € / Monat** (Master, 2 Jahre) | Master/Promotion, max. 30 Jahre, mind. **B2** bei Studienbeginn; KAS zahlt auch Goethe-Kurse | Inland: 15. Juli; Ausland: regionale Auswahl | später |
+## 3. Später im Bachelor (mit B2/C1 Deutsch)
 
-## D. Kosten (zum Vergleich)
+| Name | Wie viel | Deutsch | Bedingungen | Passung |
+|---|---|---|---|---|
+| **Friedrich-Ebert-Stiftung** | **992 € / Monat** | C1 / DSH-2 / TestDaF 4 | Schon in DE eingeschrieben; Bachelor: Bewerbung bis 3 Semester vor Ende | mittel |
+| **Stiftung der Deutschen Wirtschaft** | unklar – prüfen | B2 / DSH-2 | eingeschrieben in DE | mittel |
+| **Cusanuswerk** (katholisch) | unklar – prüfen | B2 | eingeschrieben in DE | mittel |
+| **Ev. Studienwerk Villigst** (evangelisch) | unklar – prüfen | C1 | Bewerbung vor dem Master | mittel |
+| **Avicenna-Studienwerk** (muslimisch) | unklar – prüfen | C1 / DSH-3 | eingeschrieben in DE | mittel |
+| **Hans-Böckler-Stiftung** | unklar – prüfen | C1 | eingeschrieben in DE | mittel |
+| **Walter Blüchert Stiftung / Deutsche Universitätsstiftung** | unklar – prüfen | C1 | nur **MINT-Bachelor** (Maschinenbau passt!) | mittel |
 
-- **Sperrkonto *(blocked account)* für das Studentenvisum:** **992 € / Monat = 11.904 € / Jahr**
-  (seit Januar 2025; vor dem Antrag bei der Botschaft prüfen).
-  → So viel Geld musst du zeigen, wenn du kein volles Stipendium hast.
+> Böll, KAS, Naumann und Rosa-Luxemburg fördern Internationale **nur im Master** → Abschnitt 6.
 
-## E. Deutsch-Prüfung
+## 4. Kosten sparen und selbst verdienen
 
-- **ÖSD Zertifikat B1 (ZB1)** in Hanoi: **IVES**, Cau Giay – info@ives.vn
+- **Sperrkonto (blocked account)** fürs Visum: **992 € / Monat = 11.904 € / Jahr** – brauchst du, wenn kein Stipendium alles zahlt.
+- **Studiengebühren:** In 14 Bundesländern **keine** (nur Semesterbeitrag ca. 100–430 €).
+  Baden-Württemberg: 1.500 € / Semester. TUM: 2.000–3.000 € / Semester.
+- **Arbeiten (Nicht-EU):** max. **140 ganze oder 280 halbe Tage pro Jahr**.
+  **Mindestlohn 2026: 13,90 € / Stunde.** **Minijob-Grenze 2026: 603 € / Monat.**
+
+## 5. Jetzt in Vietnam nutzen
+
+| Name | Wie viel | Frist | Passung |
+|---|---|---|---|
+| **DAAD Hochschulwinterkurse** (Deutschkurs in DE) | Kurs, Unterkunft, Versicherung, Reisekosten | **1. Juni – 31. Juli 2027** | hoch – Deutsch lernen + Deutschland kennenlernen |
+| **DAAD Hochschulsommerkurse** | wie oben | 1. Sep – 30. Okt (2026 vermutlich vorbei) | hoch – nächste Runde Herbst 2027 |
+| **VGU Talent-Stipendium** | 25–100 % Studiengebühren an der VGU | automatisch nach Noten | nur solange du an der VGU bist |
+| **ÖSD Zertifikat B1** | – | Termine bei IVES Hanoi (info@ives.vn) | Schritt zu B2 |
+
+## 6. Master (später)
+
+| Name | Wie viel | Frist |
+|---|---|---|
+| DAAD Studienstipendium (MINT) | ca. 992 € / Monat | ca. Oktober |
+| Heinrich-Böll-Stiftung | unklar | 01.03. / 01.09. |
+| Konrad-Adenauer-Stiftung | 812 € / Monat, B2 | Inland 15. Juli |
+| Rosa-Luxemburg-Stiftung | unklar, B2 | unklar |
 
 ---
 
@@ -56,20 +81,31 @@ Stand: 2026-10-31 · Profil: Mechatronik-Bachelor an der VGU, Deutsch ca. B1
 <!-- Die tägliche Suche schreibt hier neue Funde mit Datum hinein. -->
 
 ## Abgelaufen / nächste Runde
-<!-- Abgelaufene Stipendien hierher verschieben, nicht löschen. -->
+- 2026-10-31: Deutschlandstipendium 2026/27 (FU Berlin, TUM) – vorbei, nächste Runde Sommer 2027.
+- 2026-10-31: DAAD Hochschulsommerkurse 2027 – Frist 30. Okt laut FAQ, im Portal prüfen.
+
+## Nicht mehr Hauptziel (Austausch über die VGU)
+- DAAD „Typ II“ über die VGU, Austausch Frankfurt UAS – nur falls du doch an der VGU bleibst.
 
 ---
 
 ### Quellen
-- VGU Stipendien: https://tuyensinh.vgu.edu.vn/en/hocbong
-- Frankfurt UAS – VGU-Austausch: https://www.frankfurt-university.de/en/studies/international-office/incomings/exchange/vietnamese-german-university-vgu/
-- DAAD FAQ Sommer-/Winterkurse: https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/hsk_hwk_faq.pdf
-- DAAD Sommerkurse (Datenbank): https://www2.daad.de/deutschland/stipendium/datenbank/de/21148-stipendiendatenbank/?detail=50035295
-- Deutschlandstipendium (TUM): https://www.tum.de/en/studies/fees-and-financial-aid/scholarships/tum-scholarships/deutschlandstipendium/application
+- Hochschulzugang Vietnam (DAAD Vietnam): https://www.daad-vietnam.org/de/2023/04/18/hochschulzugang-fuer-vietnamesische-studierende/
+- uni-assist Länderhinweise Vietnam: https://www.uni-assist.de/tools/laenderhinweise/laenderdetails/country/vn/
+- APS Hanoi Merkblatt: https://vietnam.diplo.de/vn-de/willkommen/aktuelles/1602320-1602320
+- Deutschniveau Studienkolleg: https://www.studienkolleg.org/blog/deutschkenntnisse-studienkolleg-welches-niveau/
+- Englische Maschinenbau-Bachelor: https://www.mygermanuniversity.com/subjects/mechanical-engineering/bachelor/english-programs
+- HS Kaiserslautern: https://hs-kl.de/international/global-mechanical-engineer
+- Deutschlandstipendium FU Berlin: https://www.fu-berlin.de/en/sites/deutschlandstipendium/index.html
+- Deutschlandstipendium TUM: https://www.tum.de/en/studies/fees-and-financial-aid/scholarships/tum-scholarships/deutschlandstipendium/application
+- Studienstiftung (TU Dresden): https://tu-dresden.de/ing/maschinenwesen/studium/news-studium/stipendium-fuer-dich-studienstiftung-laedt-studierende-im-ersten-und-zweiten-fachsemester-zur-bewerbung-ein
+- Stipendien für Internationale (Uni Trier): https://www.uni-trier.de/fileadmin/studium/STIPENDIEN/Flyer_internat_Studierende_DRUCK.pdf
 - FES: https://www.fes.de/studienfoerderung/information-in-english
-- RLS: https://www.rosalux.de/stiftung/studienwerk/stipendien/studienstipendium
-- Böll: https://www.boell.de/de/stipendium-studium
-- KAS (e-fellows): https://www.e-fellows.net/stipendien-datenbank/auslaenderfoerderung
-- DAAD Vietnam (Übersicht): https://www.mygermanuniversity.com/articles/DAAD-Scholarship-Vietnam
+- Studiengebühren 2026: https://msingermany.com/blog/is-germany-still-free-2026-tuition-tracker
+- Jobben (Studierendenwerk): https://www.studierendenwerke.de/fileadmin/user_upload/260120_DSW_Flyer_Jobbing_web.pdf
 - Sperrkonto: https://www.bankdaten.de/en/guide/blocked-account-germany.html
+- DAAD FAQ Sommer-/Winterkurse: https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/hsk_hwk_faq.pdf
+- VGU Stipendien: https://tuyensinh.vgu.edu.vn/en/hocbong
+- KAS: https://www.e-fellows.net/stipendien-datenbank/auslaenderfoerderung
+- Böll: https://www.boell.de/de/stipendium-studium
 - ÖSD Hanoi (IVES): https://osd.at/en/education-with-quality-at-oesd-exam-centre-ives-in-hanoi/
