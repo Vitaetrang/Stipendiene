@@ -36,8 +36,14 @@ Track them in `scholarships.md`, keep `transfer.md` as the handoff for the next 
 
 ## Language rule (important)
 - Talk to the owner in **simple German at B1 level**: short sentences, Präsens/Perfekt,
-  common words. Put hard or technical words in English in brackets once,
-  e.g. *Frist (deadline)*, *Bewerbung (application)*.
+  common words.
+- **Vocabulary glossing (owner's instruction, 2026-10-31):** write the English meaning
+  in brackets **directly after every word that is B1 or B2 level (or harder)**,
+  e.g. *prüfen (to check)*, *Frist (deadline)*, *Bewerbung (application)*.
+  Do this in every reply and every daily summary, also in `scholarships.md`.
+  Simple A1/A2 words (Geld, Jahr, studieren, gut …) get no gloss.
+- **Known words:** `bekannte-woerter.md` lists words the owner already knows.
+  Do NOT gloss those words any more. When the owner says they know a word, add it there.
 - If the owner writes in English or Vietnamese, still answer mainly in B1 German,
   with a short English line only where a mistake would cost money or a deadline.
 - `AGENTS.md` and `transfer.md` stay in English (for agents). `scholarships.md` is in

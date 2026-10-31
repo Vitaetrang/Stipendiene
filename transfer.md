@@ -12,7 +12,14 @@
 - **Daily scheduled task** "Tägliche Stipendien-Suche" runs every day at 06:47
   (Asia/Ho_Chi_Minh), id `trig_01NHy4DuzJLeXd3TY1gtSCiP`, automatic approval, push
   notification on. Its prompt was updated to the new goal.
-- Conversation language with the owner: **B1 German** (see AGENTS.md).
+- Conversation language with the owner: **B1 German** (see AGENTS.md), with an
+  **English gloss after every B1/B2 word**; known words go to `bekannte-woerter.md`
+  (owner will tell which words they already know).
+- Source check done (2026-10-31): Studienstiftung and Walter Blüchert are NOT open to
+  the owner (§ 8 BAföG / refugees only); many other foundations probably need § 8 BAföG
+  too → verify each. APS fee 150 USD, TestAS required, 2 full study years → direct
+  subject-restricted access. Kaiserslautern: uni-assist only, deadline 15 July (WS);
+  its Studienkolleg needs B2, online application by 14 April (WS).
 
 ## Open questions for the owner (ask once, record in AGENTS.md profile)
 1. How many years at VGU will be passed before applying? (2 passed years → direct,
@@ -25,8 +32,9 @@
 1. Check with anabin / uni-assist "Check: Hochschulzugang" whether Mechatronics at
    VGU counts as related to Maschinenbau for direct access.
 2. Check the current APS procedure for a **second Bachelor** (TestAS + interview).
-3. Fill "unklar – prüfen" amounts (sdw, Cusanus, Villigst, Avicenna, Böckler,
-   Walter Blüchert).
+3. Fill "unklar – prüfen" items and check for each foundation whether non-EU
+   student-visa holders (no § 8 BAföG) can apply: sdw, Cusanus, Villigst, Avicenna,
+   Böckler. Ask APS Hanoi about rules for a second Bachelor.
 4. Search more first-year options: university merit scholarships for international
    Bachelor freshmen (e.g. at Kaiserslautern, HAW Hamburg, THWS, OTH Regensburg,
    OVGU Magdeburg), STIBET, company scholarships in Maschinenbau (Bosch, Siemens,
@@ -48,3 +56,4 @@
 ## Log
 - 2026-10-31 – Repo set up, first research round, daily task created.
 - 2026-10-31 – Goal changed to new Bachelor in Germany; list, AGENTS.md and daily task updated.
+- 2026-10-31 – Sources checked one by one; corrections (Studienstiftung, Walter Blüchert); vocabulary-gloss rule added.
