@@ -21,6 +21,11 @@
   subject-restricted access. Kaiserslautern: uni-assist only, deadline 15 July (WS);
   its Studienkolleg needs B2, online application by 14 April (WS).
 
+- **Website (artifact)** with all Maschinenbau scholarships: https://claude.ai/artifact/AUAVpvAkhbAWwTyM4LFArx
+  (source copy: `website/stipendien-maschinenbau.html`). To update it from another
+  session, read it with the Artifact tool and republish with `url` set to that link.
+  Data lives in the `DATA` array in the page script; `{…}` marks an English gloss.
+
 ## Open questions for the owner (ask once, record in AGENTS.md profile)
 1. How many years at VGU will be passed before applying? (2 passed years → direct,
    subject-restricted access; otherwise Studienkolleg.)
@@ -58,3 +63,4 @@
 - 2026-10-31 – Goal changed to new Bachelor in Germany; list, AGENTS.md and daily task updated.
 - 2026-10-31 – Sources checked one by one; corrections (Studienstiftung, Walter Blüchert); vocabulary-gloss rule added.
 - 2026-10-31 – Owner wants only B1: Studienkollegs with B1 admission researched (Konstanz confirmed, Bavaria Vorkurs).
+- 2026-10-31 – Maschinenbau scholarship research; website published; sdw/Villigst/Cusanus marked not eligible.

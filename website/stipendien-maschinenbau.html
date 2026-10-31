@@ -1,0 +1,459 @@
+<title>Stipendien Maschinenbau</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a technical-drawing title block (Schriftfeld) on top, then a filterable
+   parts list of scholarships — each row a "Position" with a fit stamp on the left. */
+:root {
+  --bg: #f1f4f7;
+  --surface: #ffffff;
+  --ink: #15202a;
+  --muted: #586774;
+  --line: #cbd5dd;
+  --accent: #1d4c9e;
+  --accent-soft: #e2eaf7;
+  --gloss: #6a5a1e;
+  --ok: #17704a;  --ok-bg: #dff1e8;
+  --mid: #8a5a00; --mid-bg: #f7ecd6;
+  --late: #47596a; --late-bg: #e4eaef;
+  --no: #9c3434;  --no-bg: #f5e2e2;
+  --f-display: "Barlow Semi Condensed", "Arial Narrow", system-ui, sans-serif;
+  --f-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f151b; --surface: #16202a; --ink: #e6edf3; --muted: #9aabb9; --line: #2c3a47;
+    --accent: #7fa7ee; --accent-soft: #1c2a40; --gloss: #d9c37a;
+    --ok: #6fd3a4; --ok-bg: #143327; --mid: #f0bf62; --mid-bg: #33280f;
+    --late: #a9bccc; --late-bg: #222e39; --no: #f09a9a; --no-bg: #3a1c1f;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0f151b; --surface: #16202a; --ink: #e6edf3; --muted: #9aabb9; --line: #2c3a47;
+  --accent: #7fa7ee; --accent-soft: #1c2a40; --gloss: #d9c37a;
+  --ok: #6fd3a4; --ok-bg: #143327; --mid: #f0bf62; --mid-bg: #33280f;
+  --late: #a9bccc; --late-bg: #222e39; --no: #f09a9a; --no-bg: #3a1c1f;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--ink);
+  font-family: var(--f-body); font-size: 15px; line-height: 1.55;
+}
+.wrap {
+  max-width: 980px; margin: 0 auto;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 28px 64px;
+  display: grid; gap: 28px;
+}
+a { color: var(--accent); }
+a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.g { color: var(--gloss); font-size: .86em; font-style: italic; }
+body.no-gloss .g { display: none; }
+
+/* Title block */
+.titleblock {
+  border: 2px solid var(--ink); background: var(--surface);
+  display: grid; grid-template-columns: 1.6fr 1fr 1fr;
+}
+.tb-cell { border: 1px solid var(--line); padding: 10px 14px; min-width: 0; }
+.tb-label { font-family: var(--f-mono); font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
+.tb-value { font-family: var(--f-display); font-weight: 600; font-size: 18px; line-height: 1.25; }
+.tb-main { grid-row: span 2; display: grid; align-content: center; gap: 6px; padding: 18px; }
+.tb-main h1 { margin: 0; font-family: var(--f-display); font-weight: 700; font-size: clamp(30px, 6vw, 46px); line-height: 1.02; letter-spacing: -.01em; text-wrap: balance; }
+.tb-main p { margin: 0; color: var(--muted); max-width: 60ch; }
+.tb-value.mono { font-family: var(--f-mono); font-weight: 500; font-size: 15px; }
+
+.note {
+  border-left: 4px solid var(--mid); background: var(--mid-bg);
+  padding: 14px 16px; max-width: 75ch;
+}
+.note p { margin: 0; }
+.note strong { color: var(--ink); }
+
+/* Summary */
+.summary { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
+.sum { background: var(--surface); border: 1px solid var(--line); padding: 12px 14px; display: grid; gap: 2px; }
+.sum b { font-family: var(--f-display); font-size: 30px; font-weight: 700; line-height: 1; font-variant-numeric: tabular-nums; }
+.sum span { font-size: 13px; color: var(--muted); }
+.sum.hoch b { color: var(--ok); } .sum.mittel b { color: var(--mid); }
+.sum.spaeter b { color: var(--late); } .sum.nein b { color: var(--no); }
+
+/* Controls */
+.controls { display: grid; gap: 12px; }
+.row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.ctl-label { font-family: var(--f-mono); font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin-right: 4px; }
+.chip {
+  font: 500 14px/1 var(--f-body); color: var(--ink); background: var(--surface);
+  border: 1px solid var(--line); padding: 8px 12px; cursor: pointer; border-radius: 2px;
+}
+.chip[aria-pressed="true"] { background: var(--accent); color: var(--surface); border-color: var(--accent); }
+.search {
+  flex: 1 1 240px; min-width: 0; font: 15px var(--f-body); color: var(--ink);
+  background: var(--surface); border: 1px solid var(--line); padding: 9px 12px; border-radius: 2px;
+}
+.toggle { display: inline-flex; gap: 8px; align-items: center; font-size: 14px; cursor: pointer; }
+
+/* Sections + positions */
+section h2 {
+  margin: 0 0 4px; font-family: var(--f-display); font-weight: 700; font-size: 24px;
+  display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; text-wrap: balance;
+}
+section h2 .pos { font-family: var(--f-mono); font-size: 13px; font-weight: 500; color: var(--muted); }
+section > p.lead { margin: 0 0 12px; color: var(--muted); max-width: 70ch; }
+.list { display: grid; gap: 10px; }
+.item {
+  display: grid; grid-template-columns: 112px minmax(0, 1fr);
+  background: var(--surface); border: 1px solid var(--line);
+}
+.stamp {
+  display: grid; align-content: start; gap: 4px; padding: 14px 10px;
+  border-right: 1px dashed var(--line); text-align: center;
+}
+.stamp .fit {
+  font-family: var(--f-display); font-weight: 700; font-size: 15px; text-transform: uppercase; letter-spacing: .06em;
+  padding: 4px 6px; border: 2px solid currentColor; border-radius: 2px;
+}
+.stamp small { font-size: 12px; color: var(--muted); line-height: 1.3; }
+.fit-hoch { color: var(--ok); background: var(--ok-bg); }
+.fit-mittel { color: var(--mid); background: var(--mid-bg); }
+.fit-spaeter { color: var(--late); background: var(--late-bg); }
+.fit-nein { color: var(--no); background: var(--no-bg); }
+.body { padding: 14px 16px; display: grid; gap: 10px; min-width: 0; }
+.body h3 { margin: 0; font-family: var(--f-display); font-weight: 600; font-size: 21px; line-height: 1.2; text-wrap: balance; }
+.payer { font-size: 13px; color: var(--muted); margin-top: -6px; }
+.amount { font-family: var(--f-mono); font-weight: 500; font-size: 15px; color: var(--accent); font-variant-numeric: tabular-nums; }
+dl { margin: 0; display: grid; grid-template-columns: 130px minmax(0, 1fr); gap: 6px 14px; }
+dt { font-family: var(--f-mono); font-size: 11px; text-transform: uppercase; letter-spacing: .07em; color: var(--muted); padding-top: 3px; }
+dd { margin: 0; min-width: 0; }
+.foot { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; font-size: 13px; }
+.src { font-family: var(--f-mono); font-size: 11px; text-transform: uppercase; letter-spacing: .06em; padding: 2px 6px; border: 1px solid var(--line); color: var(--muted); }
+.src.off { border-color: var(--ok); color: var(--ok); }
+.empty { padding: 18px; border: 1px dashed var(--line); color: var(--muted); }
+#sections { display: grid; gap: 32px; }
+footer { font-size: 13px; color: var(--muted); display: grid; gap: 6px; max-width: 75ch; }
+
+@media (max-width: 720px) {
+  .titleblock { grid-template-columns: 1fr 1fr; }
+  .tb-main { grid-column: 1 / -1; grid-row: auto; }
+  .summary { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 520px) {
+  .item { grid-template-columns: 1fr; }
+  .stamp { border-right: 0; border-bottom: 1px dashed var(--line); display: flex; flex-wrap: wrap; gap: 8px; align-items: center; text-align: left; padding: 10px 14px; }
+  dl { grid-template-columns: 1fr; gap: 2px; }
+  dd { margin-bottom: 6px; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+  <header class="titleblock" aria-label="Schriftfeld">
+    <div class="tb-cell tb-main">
+      <span class="tb-label">Stipendien-Liste · Bachelor in Deutschland</span>
+      <h1>Stipendien Maschinenbau</h1>
+      <p id="intro"></p>
+    </div>
+    <div class="tb-cell"><div class="tb-label">Fach</div><div class="tb-value" id="tb-fach"></div></div>
+    <div class="tb-cell"><div class="tb-label">Deutsch</div><div class="tb-value">B1 → ÖSD</div></div>
+    <div class="tb-cell"><div class="tb-label">Stand</div><div class="tb-value mono">31.10.2026</div></div>
+    <div class="tb-cell"><div class="tb-label">Positionen</div><div class="tb-value mono" id="tb-count"></div></div>
+  </header>
+
+  <div class="note"><p id="honest"></p></div>
+
+  <div class="summary" id="summary"></div>
+
+  <div class="controls">
+    <div class="row" role="group" aria-label="Passung">
+      <span class="ctl-label">Passung</span>
+      <button class="chip" data-fit="alle" aria-pressed="true">Alle</button>
+      <button class="chip" data-fit="hoch" aria-pressed="false">Hoch</button>
+      <button class="chip" data-fit="mittel" aria-pressed="false">Mittel</button>
+      <button class="chip" data-fit="spaeter" aria-pressed="false">Später</button>
+      <button class="chip" data-fit="nein" aria-pressed="false">Passt nicht</button>
+    </div>
+    <div class="row">
+      <input class="search" id="q" type="search" placeholder="Suchen … z. B. Hamburg, 300 €, C1" aria-label="Suchen">
+      <label class="toggle"><input type="checkbox" id="gloss" checked> Englisch anzeigen</label>
+    </div>
+  </div>
+
+  <div id="sections"></div>
+
+  <footer id="footer"></footer>
+</div>
+
+<script>
+// {…} = English gloss for a B1/B2 word. Rendered as a small italic span that can be hidden.
+const G = s => s.replace(/\{([^}]+)\}/g, '<span class="g"> ($1)</span>');
+
+const FIT = {
+  hoch:    { label: 'Hoch',        sub: 'für dich als Erstsemester{first-year student}' },
+  mittel:  { label: 'Mittel',      sub: 'mit Bedingungen{conditions}' },
+  spaeter: { label: 'Später',      sub: 'Master oder Auslandssemester' },
+  nein:    { label: 'Passt nicht', sub: 'Grund{reason} unten' }
+};
+
+const SECTIONS = [
+  { id: 'erst',   title: 'Ab dem ersten Semester', lead: 'Hier kannst du dich schon mit dem Zulassungsbescheid{letter of acceptance} bewerben{apply}.' },
+  { id: 'spaet',  title: 'Später im Bachelor', lead: 'Wenn du schon in Deutschland studierst. Oft brauchst du gute Noten oder C1.' },
+  { id: 'master', title: 'Master und Ausland', lead: 'Nicht für den Start, aber gut zu wissen.' },
+  { id: 'nein',   title: 'Passt nicht zu dir', lead: 'Diese Stipendien siehst du oft im Internet. Hier steht, warum sie für dich nicht gehen.' }
+];
+
+const DATA = [
+  // --- Ab dem ersten Semester ---
+  { sec: 'erst', fit: 'hoch', name: 'Deutschlandstipendium – Hochschule Kaiserslautern',
+    payer: 'Bund + Firmen, halb-halb',
+    amount: '300 € / Monat · meist 2 Semester',
+    who: 'Deutsche und ausländische{foreign} Studierende, schon ab dem 1. Semester. Den Zulassungsbescheid{letter of acceptance} kannst du bis 30. September nachreichen{submit later}.',
+    de: 'nicht genannt{not stated}',
+    deadline: 'Runde 2026: 1. April – 30. Juni. Runde 2027/28: Start ca. April 2027 (Website prüfen{check})',
+    note: 'Passt gut zu Mechanical Engineering auf Englisch in Kaiserslautern. Nicht kombinierbar{combinable} mit anderen Leistungsstipendien{merit scholarships}.',
+    url: 'https://hs-kl.de/en/hochschule/referate-stabsstellen/department-for-business-and-transfer/talent-meets-funding-the-deutschlandstipendium/deutschlandstipendium-students',
+    src: 'offiziell' },
+  { sec: 'erst', fit: 'hoch', name: 'Deutschlandstipendium – HAW Hamburg',
+    payer: 'Bund + Firmen, halb-halb',
+    amount: '300 € / Monat · 1 Jahr, Verlängerung{extension} möglich',
+    who: 'Wer an der HAW studiert oder die Zulassungsvoraussetzungen{admission requirements} erfüllt{meets} und bald anfängt. Laut{according to} Studierendenwerk Hamburg für alle Nationalitäten.',
+    de: 'nicht genannt',
+    deadline: '1.–31. Dezember 2026 (online). Für deinen Start: nächste Runde im Dezember prüfen',
+    note: 'Die HAW hat Mechanical Engineering auf Englisch.',
+    url: 'https://www.haw-hamburg.de/en/deutschlandstipendium-germany-scholarship/information-for-students/',
+    src: 'offiziell' },
+  { sec: 'erst', fit: 'hoch', name: 'Deutschlandstipendium – OTH Regensburg',
+    payer: 'Bund + Firmen, halb-halb',
+    amount: '300 € / Monat · 1 Jahr = 1.800 €',
+    who: 'Auch neue Studierende, die die Zulassungsvoraussetzungen erfüllen und bald anfangen. Nicht, wenn du schon ein anderes Begabtenstipendium{merit scholarship} hast.',
+    de: 'nicht genannt',
+    deadline: 'Infos für 2027/28 kommen ca. April 2027',
+    note: 'Die OTH hat International Mechanical Engineering.',
+    url: 'https://www.oth-regensburg.de/en/die-oth/einrichtungen/career-service/scholarships/deutschlandstipendium',
+    src: 'offiziell' },
+  { sec: 'erst', fit: 'hoch', name: 'Deutschlandstipendium – andere Unis',
+    payer: 'Bund + Firmen, halb-halb',
+    amount: '300 € / Monat',
+    who: 'Fast jede Uni hat es. Für alle Nationalitäten. Viele Unis nehmen Erstsemester mit Zulassungsbescheid (z. B. FU Berlin, TUM, Uni Hannover).',
+    de: 'meist nicht genannt',
+    deadline: 'je nach{depending on} Uni, oft Frühling oder Sommer',
+    note: 'Tipp: Bei jeder Uni, wo du dich bewirbst, auch dieses Stipendium suchen.',
+    url: 'https://www.fu-berlin.de/en/sites/deutschlandstipendium/index.html',
+    src: 'offiziell' },
+  { sec: 'erst', fit: 'mittel', name: 'Dr. Jost Henkel Stiftung',
+    payer: 'Stiftung{foundation} der Firma Henkel',
+    amount: '600–800 € / Monat · erst 6 Monate, Verlängerung möglich',
+    who: 'Wirtschaft, Naturwissenschaften, Informatik und Technik. Nationalität egal. Überdurchschnittliche{above-average} Noten (Liste Hamburg: Note 2,0) und Bedürftigkeit{financial need}. Andere Förderung{funding} muss ausgeschöpft{used up} sein.',
+    de: 'nicht genannt',
+    deadline: 'jederzeit{anytime} – mind. 3 Monate vor dem Zeitraum',
+    note: 'Du brauchst Studienplatzzusage{admission} oder Immatrikulation, 2 Gutachten{reference letters} von Professoren und ein Auswahlgespräch{interview}. Eine ältere Uni-Liste sagt: eher nach 2 Studienjahren.',
+    url: 'https://www.mystipendium.de/stipendien/dr-jost-henkel-stiftung-foerderung',
+    src: 'portal' },
+  { sec: 'erst', fit: 'mittel', name: 'Landesstipendium Rheinland-Pfalz',
+    payer: 'Land Rheinland-Pfalz',
+    amount: 'ca. 3.000–3.600 € / Jahr',
+    who: 'Alle Nationalitäten, Bachelor. Gute Leistungen{performance} und gesellschaftliches Engagement{social commitment}. Gilt an Hochschulen in Rheinland-Pfalz (z. B. Kaiserslautern).',
+    de: 'nicht genannt',
+    deadline: '15. Juli (Stand 2024 – prüfen)',
+    note: 'Quelle ist eine Liste der Hochschule Trier von 2024. Auf der offiziellen Seite noch bestätigen{confirm}.',
+    url: 'https://www.hochschule-trier.de/fileadmin/Hochschule/Einrichtungen/Gleichstellungsbuero/Listen/Stipendienliste_2024_04.pdf',
+    src: 'uni-liste' },
+
+  // --- Später im Bachelor ---
+  { sec: 'spaet', fit: 'mittel', name: 'Friedrich-Ebert-Stiftung – Programm für Ausländer',
+    payer: 'FES (Auswärtiges Amt)',
+    amount: '992 € / Monat + Krankenversicherung{health insurance}',
+    who: 'Ausländische Studierende, die schon in Deutschland studieren und erste Noten haben. Bachelor: bis 3 Semester vor dem Ende. Bis zu 40 Plätze pro Jahr für Afrika, Asien, Lateinamerika, Osteuropa.',
+    de: 'C1 / DSH-2 / TestDaF 4 – Bewerbung auf Deutsch',
+    deadline: '31. Mai und 30. November (laut Uni Hannover)',
+    note: 'Das größte Stipendium für dich im Bachelor – aber nur mit C1.',
+    url: 'https://www.fes.de/studienfoerderung/information-in-english',
+    src: 'offiziell' },
+  { sec: 'spaet', fit: 'mittel', name: 'e-fellows.net Ingenieurs-Stipendium',
+    payer: 'e-fellows.net + Partnerfirmen',
+    amount: '600 € einmal + Mentor{mentor} für 6 Monate',
+    who: '(Wirtschafts-)Ingenieurwesen, alle Semester, auch FH. Studium in Deutschland oder Österreich. Noten oft nicht wichtig.',
+    de: 'nicht genannt',
+    deadline: '15. November 2026, dann wieder Mitte Mai',
+    note: 'Bewerbung online, sehr kurz. Mit anderen Stipendien kombinierbar.',
+    url: 'https://www.e-fellows.net/stipendien-datenbank/ingenieurs-stipendium',
+    src: 'portal' },
+  { sec: 'spaet', fit: 'mittel', name: 'Herbert-Rehn-Stiftung für Maschinenbau',
+    payer: 'Stiftung an der HAW Hamburg',
+    amount: 'unklar{unclear} – Lebensunterhalt{living costs}, Sach- und Reisekosten',
+    who: 'Nur Studierende im Department Maschinenbau und Produktion der HAW Hamburg (Bachelor und Master). Max. 2 Jahre.',
+    de: 'nicht genannt',
+    deadline: 'unklar – Antrag{application} schriftlich an den Dekan',
+    note: 'Speziell{specifically} für Maschinenbau! Lohnt sich, wenn du an die HAW gehst.',
+    url: 'https://www.e-fellows.net/stipendien-datenbank/herbert-rehn-stiftung-fuer-maschinenbau',
+    src: 'portal' },
+  { sec: 'spaet', fit: 'mittel', name: 'HAW Hamburg Exzellenzstipendium · TU Hamburg Merit Scholarship',
+    payer: 'Hochschulen in Hamburg',
+    amount: 'unklar',
+    who: 'Für internationale Bachelor- und Masterstudierende (HAW) bzw. für Studierende ohne § 8 BAföG (TUHH) – also auch für dich.',
+    de: 'nicht genannt',
+    deadline: 'unklar',
+    note: 'Aus einer Liste des Studierendenwerks Hamburg (2024). Auf den Uni-Seiten prüfen.',
+    url: 'https://www.stwhh.de/fileadmin/user_upload/Internationales/__Downloads/Finanzierung_von_Studierenden_aus_dem_Ausland/Stipendien/Scholarships_Students_Foreign_Nationality_2024_04.pdf',
+    src: 'uni-liste' },
+  { sec: 'spaet', fit: 'mittel', name: 'idealo Stipendium für Bahnbrecher:innen',
+    payer: 'Firma idealo',
+    amount: '750 € / Monat · 1 Jahr = 9.000 €',
+    who: 'Studierende in Deutschland mit einem besonderen Talent und Engagement. Du schickst ein Video.',
+    de: 'nicht genannt',
+    deadline: 'auf der idealo-Seite prüfen',
+    note: 'Sehr viele Bewerber. Aber das Geld ist groß.',
+    url: 'https://www.e-fellows.net/stipendien-datenbank/stipendium-fuer-bahnbrecherinnen',
+    src: 'portal' },
+  { sec: 'spaet', fit: 'mittel', name: 'STIBET – Hochschule Kaiserslautern',
+    payer: 'DAAD / Auswärtiges Amt, über die Stipendienstiftung Rheinland-Pfalz',
+    amount: 'unklar – hängt von der Zahl der Bewerber ab',
+    who: 'Ausländische Studierende: (1) am Ende des Studiums, max. 9 Monate bis zum Abschluss; (2) für sehr engagierte Studierende.',
+    de: 'nicht genannt',
+    deadline: 'in den News des International Office',
+    note: 'Nicht kombinierbar mit anderen Stipendien. Kontakt: io@hs-kl.de',
+    url: 'https://www.hs-kl.de/fileadmin/international/international-office/io/pdf/Funding_InternationalStudents.pdf',
+    src: 'offiziell' },
+  { sec: 'spaet', fit: 'mittel', name: 'Kleine Stiftungen für Bedürftige{people in need}',
+    payer: 'Dr. Arthur Pfungst Stiftung · Reemtsma Begabtenförderungswerk · Kölner Gymnasial- und Stiftungsfonds',
+    amount: 'unklar – nach Bedarf{according to need}',
+    who: 'Gute Noten + wenig Geld. Kölner Fonds: Nicht-Deutsche ab dem 3. Semester, Note 2,0 bzw. 2,5. Pfungst: ab ca. 2. Semester, Erststudium.',
+    de: 'nicht genannt',
+    deadline: 'unklar',
+    note: 'Aus der Liste des Studierendenwerks Hamburg. Jede Stiftung einzeln prüfen.',
+    url: 'https://www.stwhh.de/fileadmin/user_upload/Internationales/__Downloads/Finanzierung_von_Studierenden_aus_dem_Ausland/Stipendien/Scholarships_Students_Foreign_Nationality_2024_04.pdf',
+    src: 'uni-liste' },
+
+  // --- Master und Ausland ---
+  { sec: 'master', fit: 'spaeter', name: 'Erich-Müller-Stiftung',
+    payer: 'Stifterverband',
+    amount: '500–600 € / Monat · ca. 6 Monate',
+    who: 'Maschinenbau, Elektrotechnik u. a. – für die Masterarbeit im Ausland. Nur Uni / TU, nicht FH. Bachelor-Note mind. 2,5.',
+    de: 'nicht genannt', deadline: 'unklar',
+    note: '', url: 'https://www.e-fellows.net/stipendien-datenbank/erich-mueller-stiftung-fuer-studenten-der-ingenieurwissenschaften', src: 'portal' },
+  { sec: 'master', fit: 'spaeter', name: 'Thomas-Weiland-Stipendium (TU Darmstadt)',
+    payer: 'Stiftung an der TU Darmstadt',
+    amount: '500 € / Monat · 4 Semester',
+    who: 'Master Maschinenbau oder Wirtschaftsingenieurwesen an der TU Darmstadt. Bachelor darf von woanders{elsewhere} sein.',
+    de: 'nicht genannt', deadline: 'einmal im Jahr, ca. 30. Juni',
+    note: '', url: 'https://www.vdi-nachrichten.com/karriere/tools-tipps/10-stipendien-fuer-ingenieure/', src: 'portal' },
+  { sec: 'master', fit: 'spaeter', name: 'Ulderup-Stiftung (Uni Hannover Maschinenbau)',
+    payer: 'Dr. Jürgen und Irmgard Ulderup Stiftung',
+    amount: 'nach Kostenplan{cost plan}, im Schnitt{on average} ca. 1.650–2.250 €',
+    who: 'Maschinenbau-Studierende in Hannover im Hauptstudium – für Auslandssemester, Projekt oder Praktikum{internship} im Ausland.',
+    de: 'nicht genannt', deadline: '31. Januar und 30. Juni',
+    note: 'Nur für Zeit im Ausland, nicht für das Leben in Deutschland.', url: 'https://www.maschinenbau.uni-hannover.de/studium/stipendien', src: 'offiziell' },
+  { sec: 'master', fit: 'spaeter', name: 'DAAD Studienstipendium (MINT)',
+    payer: 'DAAD',
+    amount: 'ca. 992 € / Monat · 10–24 Monate',
+    who: 'Master in Deutschland nach einem guten Bachelor. Abschluss max. 6 Jahre alt.',
+    de: 'je nach Studiengang', deadline: 'ca. Oktober (jedes Jahr prüfen)',
+    note: '', url: 'https://www.mygermanuniversity.com/articles/DAAD-Scholarship-Vietnam', src: 'portal' },
+  { sec: 'master', fit: 'spaeter', name: 'Konrad-Adenauer-Stiftung',
+    payer: 'KAS',
+    amount: '812 € / Monat (Master)',
+    who: 'Master/Promotion, max. 30 Jahre. Eine Uni-Liste nennt auch Bachelor (bis 934 €) – die Quellen widersprechen sich{contradict each other}.',
+    de: 'mind. B2', deadline: 'Inland: 15. Juli',
+    note: '', url: 'https://www.e-fellows.net/stipendien-datenbank/auslaenderfoerderung', src: 'portal' },
+
+  // --- Passt nicht ---
+  { sec: 'nein', fit: 'nein', name: 'Studienstiftung des deutschen Volkes',
+    payer: '', amount: '300 € + bis 855 € / Monat',
+    who: 'Nicht-EU nur mit § 8 BAföG (z. B. Daueraufenthalt{permanent residence}, Flüchtlinge{refugees}). Mit Studentenvisum meistens nicht.',
+    de: '', deadline: '', note: '', url: 'https://www.studienstiftung.de/pool/sdv/public/documents/auswahl/SelbstbewerbungFAQ.pdf', src: 'offiziell' },
+  { sec: 'nein', fit: 'nein', name: 'Stiftung der Deutschen Wirtschaft (Klaus Murmann)',
+    payer: '', amount: 'nach BAföG-Regeln',
+    who: 'Ausländer nur mit § 8 BAföG. Das gilt für die meisten großen Begabtenförderungswerke{merit foundations}.',
+    de: '', deadline: '', note: '', url: 'https://www.sdw.org/content/uploads/Vergaberichtlinie-Studienstipendien-2024.pdf', src: 'offiziell' },
+  { sec: 'nein', fit: 'nein', name: 'Villigst · Cusanuswerk',
+    payer: '', amount: '',
+    who: 'Laut Uni-Liste nur für EU-Bürger (und Kirchenmitglieder{church members}).',
+    de: '', deadline: '', note: '', url: 'https://www.uni-due.de/imperia/md/content/scies/scholarshipsforengineeringstudents_updated.pdf', src: 'uni-liste' },
+  { sec: 'nein', fit: 'nein', name: 'Walter Blüchert Stiftung (hochform)',
+    payer: '', amount: '',
+    who: 'MINT, aber nur für Geflüchtete{refugees} mit anerkanntem{recognised} Status.',
+    de: '', deadline: '', note: '', url: 'https://www.mystipendium.de/stipendien/walter-bluechert-stiftung-hochform', src: 'portal' },
+  { sec: 'nein', fit: 'nein', name: 'B-MINT (Claussen-Simon) · MTU Stiftung',
+    payer: '', amount: '',
+    who: 'Nur für Frauen; B-MINT außerdem nicht für internationale Studierende.',
+    de: '', deadline: '', note: '', url: 'https://www.vdi-nachrichten.com/karriere/tools-tipps/10-stipendien-fuer-ingenieure/', src: 'portal' },
+  { sec: 'nein', fit: 'nein', name: 'Aufstiegsstipendium',
+    payer: '', amount: '735 € / Monat',
+    who: 'Nur mit Berufsausbildung{vocational training} und deutscher Staatsangehörigkeit{citizenship} oder Daueraufenthalt.',
+    de: '', deadline: '', note: '', url: 'https://www.maschinenbau.uni-hannover.de/studium/stipendien', src: 'offiziell' }
+];
+
+const SRC = { offiziell: ['Offizielle Seite', 'off'], portal: ['Portal', ''], 'uni-liste': ['Uni-Liste', ''] };
+
+const state = { fit: 'alle', q: '' };
+const esc = s => s.replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const plain = s => s.replace(/\{([^}]+)\}/g, ' $1');
+
+function card(d) {
+  const f = FIT[d.fit];
+  const rows = [
+    ['Wer{who}', d.who], ['Deutsch', d.de], ['Frist{deadline}', d.deadline], ['Hinweis{note}', d.note]
+  ].filter(r => r[1]);
+  const [srcLabel, srcCls] = SRC[d.src];
+  return `<article class="item">
+    <div class="stamp"><span class="fit fit-${d.fit}">${f.label}</span><small>${G(f.sub)}</small></div>
+    <div class="body">
+      <h3>${G(esc(d.name))}</h3>
+      ${d.payer ? `<div class="payer">${G(esc(d.payer))}</div>` : ''}
+      ${d.amount ? `<div class="amount">${G(esc(d.amount))}</div>` : ''}
+      <dl>${rows.map(([k, v]) => `<dt>${G(k)}</dt><dd>${G(esc(v))}</dd>`).join('')}</dl>
+      <div class="foot"><span class="src ${srcCls}">${srcLabel}</span><a href="${d.url}" target="_blank" rel="noopener">${G('Zur Quelle{source}')} ↗</a></div>
+    </div>
+  </article>`;
+}
+
+function render() {
+  const q = state.q.trim().toLowerCase();
+  const match = d => (state.fit === 'alle' || d.fit === state.fit) &&
+    (!q || plain([d.name, d.payer, d.amount, d.who, d.de, d.deadline, d.note].join(' ')).toLowerCase().includes(q));
+  let shown = 0;
+  document.getElementById('sections').innerHTML = SECTIONS.map((s, i) => {
+    const items = DATA.filter(d => d.sec === s.id && match(d));
+    shown += items.length;
+    if (!items.length) return '';
+    return `<section aria-labelledby="h-${s.id}"><h2 id="h-${s.id}"><span class="pos">Pos. ${i + 1}</span>${G(s.title)}</h2>
+      <p class="lead">${G(s.lead)}</p><div class="list">${items.map(card).join('')}</div></section>`;
+  }).join('') || `<div class="empty">${G('Nichts gefunden. Probier ein anderes Wort oder wähle „Alle“.')}</div>`;
+}
+
+function init() {
+  document.getElementById('intro').innerHTML = G('Alle Stipendien für ein Maschinenbau-Studium, die ich gefunden habe – sortiert{sorted} nach der Passung{fit} für dich.');
+  document.getElementById('tb-fach').textContent = 'Maschinenbau / Ingenieurwesen';
+  document.getElementById('tb-count').textContent = DATA.length + ' Einträge';
+  document.getElementById('honest').innerHTML = G('<strong>Wichtig{important}:</strong> Ein Stipendium nur für Maschinenbau, das ab dem 1. Semester alle Lebenskosten{living costs} zahlt, habe ich für Studierende aus Vietnam <strong>nicht</strong> gefunden. Am realistischsten{most realistic}: Deutschlandstipendium (300 €) ab Semester 1, dann FES (992 €) mit C1. Für das Visum brauchst du trotzdem{still} das Sperrkonto{blocked account}: 11.904 € / Jahr.');
+  const counts = { hoch: 0, mittel: 0, spaeter: 0, nein: 0 };
+  DATA.forEach(d => counts[d.fit]++);
+  document.getElementById('summary').innerHTML = Object.keys(counts).map(k =>
+    `<div class="sum ${k}"><b>${counts[k]}</b><span>${G(FIT[k].label + ' – ' + FIT[k].sub)}</span></div>`).join('');
+  document.getElementById('footer').innerHTML =
+    `<span>${G('Quellen-Typen{source types}: „Offizielle Seite“ = von der Uni oder Stiftung selbst. „Portal“ und „Uni-Liste“ = vor der Bewerbung auf der offiziellen Seite prüfen{check}.')}</span>
+     <span>${G('Gelbe Wörter in Klammern = Englisch für B1/B2-Wörter. Du kannst sie oben ausblenden{hide}.')}</span>`;
+
+  document.querySelectorAll('.chip').forEach(b => b.addEventListener('click', () => {
+    state.fit = b.dataset.fit;
+    document.querySelectorAll('.chip').forEach(x => x.setAttribute('aria-pressed', String(x === b)));
+    render();
+  }));
+  document.getElementById('q').addEventListener('input', e => { state.q = e.target.value; render(); });
+  const gl = document.getElementById('gloss');
+  try { if (localStorage.getItem('gloss') === 'off') { gl.checked = false; } } catch (e) {}
+  const applyGloss = () => {
+    document.body.classList.toggle('no-gloss', !gl.checked);
+    try { localStorage.setItem('gloss', gl.checked ? 'on' : 'off'); } catch (e) {}
+  };
+  gl.addEventListener('change', applyGloss);
+  applyGloss();
+  render();
+}
+init();
+</script>

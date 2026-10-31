@@ -81,6 +81,19 @@ Stand (as of): 2026-10-31 · **Ziel (goal): neuer Bachelor in Deutschland (Masch
 
 ## Neu gefunden (newly found)
 <!-- Die tägliche Suche schreibt hier neue Funde mit Datum hinein. -->
+**2026-10-31 – Maschinenbau-Suche** (alles auch auf der Website: https://claude.ai/artifact/AUAVpvAkhbAWwTyM4LFArx)
+- **Deutschlandstipendium HS Kaiserslautern** – 300 €/Monat, auch internationale Erstsemester (first-year students); Bewerbung (application) ca. April–Juni 2027, Zulassungsbescheid (letter of acceptance) bis 30.9. – Passung hoch
+- **Deutschlandstipendium HAW Hamburg** – 300 €/Monat, auch neue Studierende; Bewerbung 1.–31.12. – Passung hoch
+- **Deutschlandstipendium OTH Regensburg** – 300 €/Monat, auch neue Studierende; Infos ab April 2027 – Passung hoch
+- **Dr. Jost Henkel Stiftung** – 600–800 €/Monat, Nationalität egal, Technik ok, jederzeit (anytime); gute Noten + Bedürftigkeit (financial need) – Passung mittel (Portal-Quelle)
+- **Landesstipendium Rheinland-Pfalz** – ca. 3.000–3.600 €/Jahr, alle Nationalitäten; 15. Juli (Stand 2024, prüfen (check)) – mittel
+- **e-fellows Ingenieurs-Stipendium** – 600 € + Mentor; Frist (deadline) 15.11.2026 / Mitte Mai; Studium in DE nötig – mittel
+- **Herbert-Rehn-Stiftung** (HAW Hamburg, Maschinenbau) – Lebensunterhalt (living costs), Betrag unklar – mittel
+- **HAW Hamburg Exzellenzstipendium / TUHH Merit Scholarship** – für Internationale ohne § 8 BAföG – mittel, prüfen
+- **idealo Bahnbrecher** – 750 €/Monat, 1 Jahr – mittel
+- **STIBET HS Kaiserslautern** – Abschluss (graduation) / Engagement – mittel
+- **Erich-Müller-Stiftung, Thomas-Weiland (TU Darmstadt), Ulderup (Hannover)** – Master / Ausland – später
+- **Korrektur (correction):** Stiftung der Deutschen Wirtschaft (sdw) braucht § 8 BAföG → **nein**. Villigst und Cusanuswerk: laut (according to) Uni-Liste nur EU-Bürger → **nein**. Die meisten großen Begabtenförderungswerke (merit foundations) verlangen (require) § 8 BAföG; die politischen Stiftungen (FES, KAS …) haben eigene Programme für Studierende mit Visum.
 
 ## Abgelaufen (expired) / nächste Runde
 - 2026-10-31: Deutschlandstipendium 2026/27 (FU Berlin, TUM) – vorbei, nächste Runde Sommer 2027.
