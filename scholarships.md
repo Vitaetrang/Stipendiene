@@ -1,6 +1,6 @@
 # Stipendien-Liste (scholarship list)
 
-Stand (as of): 2026-10-31 · **Ziel (goal): neuer Bachelor in Deutschland (Maschinenbau (mechanical engineering) o. ä.)** · Deutsch ca. B1
+Stand (as of): 2026-11-02 · **Ziel (goal): neuer Bachelor in Deutschland (Maschinenbau (mechanical engineering) o. ä.)** · Deutsch ca. B1
 
 **Passung (fit):** hoch = für dich als Erstsemester (first-year student) · mittel = mit Bedingungen (conditions) · nein = passt nicht · später (later) = Master
 
@@ -21,11 +21,11 @@ Stand (as of): 2026-10-31 · **Ziel (goal): neuer Bachelor in Deutschland (Masch
 | **Studienkolleg (T-Kurs)** | 1 Jahr Vorbereitung (preparation), dann Feststellungsprüfung (assessment exam). Staatliche (state) Studienkollegs sind **kostenlos (free)**. 1 Studienjahr in Vietnam reicht (is enough), wenn die Schulnoten nicht reichen. | **Mit B1 möglich (possible):** z. B. **Studienkolleg Konstanz** (T-Kurs, B1 offiziell (officially), 192,50 € Verwaltungsgebühr (admin fee) pro Semester, Bewerbung bis **1. Mai 2027** für WS 2027/28). Bayern: Aufnahmeprüfung (entrance exam) B1+/B2, aber **Vorkurs (pre-course) mit B1** möglich. Viele andere: **B2** (z. B. Kaiserslautern: B2, Bewerbung bis 14. April). Unterricht auf B2/C1, am Ende **C1** – du lernst Deutsch im Kolleg weiter. |
 | **Sprache fürs Studium** | Deutsch: ca. **C1** (DSH-2 / TestDaF 4×4). Englisch: IELTS/TOEFL | Englischer Studiengang (degree programme) = vielleicht (maybe) schneller |
 
-**Englische Maschinenbau-Bachelor ohne Studiengebühren (Beispiele):**
+**Englische Maschinenbau-Bachelor (Beispiele; Kosten geändert (changed), siehe 2026-11-02):**
 - Hochschule **Kaiserslautern** – Mechanical Engineering B.Eng., 7 Semester, ca. 380 € Semesterbeitrag (semester fee). Bewerbung **nur über uni-assist**, Frist (deadline) Wintersemester: **15. Juli**
-- **HAW Hamburg** – Mechanical Engineering B.Sc.
-- **THWS** Würzburg-Schweinfurt – Mechanical Engineering B.Eng.
-- **OTH Regensburg** – International Mechanical Engineering B.Eng.
+- **HAW Hamburg** – Mechanical Engineering B.Sc. Keine Studiengebühren, nur Semesterbeitrag. Englisch **B2**.
+- **THWS** Würzburg-Schweinfurt – Mechanical Engineering B.Eng. **Ab WS 2027/28 für Nicht-EU: 750 € / Semester + 50 € pro Bewerbung.**
+- **OTH Regensburg** – International Mechanical Engineering B.Eng. **Für Nicht-EU: 500 € / Semester Servicegebühr (service fee)** + 208 € Semesterbeitrag.
 - **OVGU Magdeburg** – Engineering Science B.Sc.
 - Baden-Württemberg (z. B. KIT, Aalen, Offenburg): **1.500 € pro Semester** für Nicht-EU. Achtung (attention): Für ein **Zweitstudium (second degree)** gibt es dort eine Gebühr von **650 €** – ob das für dich gilt (applies), bei der Hochschule fragen.
 
@@ -56,15 +56,16 @@ Stand (as of): 2026-10-31 · **Ziel (goal): neuer Bachelor in Deutschland (Masch
 - **Sperrkonto (blocked account)** fürs Visum: **992 € / Monat = 11.904 € / Jahr** (Quelle (source) ist ein Bankportal → bei der Botschaft bestätigen (confirm)).
 - **Studiengebühren:** In 14 Bundesländern (federal states) **keine** (nur Semesterbeitrag ca. 100–430 €).
   Baden-Württemberg: 1.500 € / Semester (offiziell (officially) bestätigt). TUM: 2.000–3.000 € / Semester.
+  **Bayern ist nicht mehr automatisch kostenlos:** THWS, OTH Regensburg, TH Nürnberg und FAU verlangen (charge) jetzt Geld von Nicht-EU-Studierenden (siehe 2026-11-02). Immer die Seite der Hochschule prüfen (check).
 - **Arbeiten (Nicht-EU):** max. **140 ganze oder 280 halbe Tage pro Jahr**, keine Selbstständigkeit (self-employment).
-  **Mindestlohn (minimum wage) 2026: 13,90 € / Stunde.** **Minijob-Grenze (limit) 2026: 603 € / Monat.**
+  **Mindestlohn (minimum wage) 2026: 13,90 € / Stunde, ab 1.1.2027: 14,60 €.** **Minijob-Grenze (limit) 2026: 603 € / Monat, ab 1.1.2027: 633 €.**
 
 ## 5. Jetzt in Vietnam nutzen (use)
 
 | Name | Wie viel | Frist | Passung |
 |---|---|---|---|
-| **DAAD Hochschulwinterkurse** (Deutschkurs in DE) | Kurs, Unterkunft (housing), Versicherung (insurance), Reisekosten (travel costs) | **1. Juni – 31. Juli 2027** | hoch |
-| **DAAD Hochschulsommerkurse** | wie oben | 1. Sep – 30. Okt (2026 wahrscheinlich vorbei) | hoch – nächste Runde (round) Herbst 2027 |
+| **DAAD Hochschulwinterkurse** (Deutschkurs in DE, 4 Wochen im Jan./Feb.) | Kurs, Einzelzimmer, 475 € einmalig (one-time), Versicherung (insurance), Reisekosten (travel costs) | **1. Juni – 31. Juli 2027** | **mittel** (korrigiert (corrected)): B1-Zertifikat nötig (max. 1 Jahr alt), 2 Studienjahre fertig, und du musst noch im Ausland eingeschrieben (enrolled) sein. Joint/Double Degrees mit Deutschland sind ausgeschlossen (excluded) → für VGU prüfen. |
+| **DAAD Hochschulsommerkurse** | wie oben | 1. Sep – 30. Okt (2026 vorbei (over)) | **mittel** – gleiche Bedingungen; nächste Runde (round) Herbst 2027 |
 | **VGU Talent-Stipendium** | 25–100 % Studiengebühren an der VGU | automatisch nach Noten | nur solange (as long as) du an der VGU bist |
 | **ÖSD Zertifikat B1** | – | Termine (dates) bei IVES Hanoi (info@ives.vn) | Schritt zu B2 |
 
@@ -104,9 +105,28 @@ Stand (as of): 2026-10-31 · **Ziel (goal): neuer Bachelor in Deutschland (Masch
 - **Sperrkonto (blocked account)**: laut (according to) Portal bleibt es **2027 bei 992 € / Monat** (11.904 € / Jahr). Das Auswärtige Amt nennt keinen Betrag → bei der Botschaft Hanoi bestätigen (confirm).
 - **e-fellows.net-Stipendium**: Die offizielle Seite nennt **kein Geld** (nur Abos (subscriptions), Mentoring, Netzwerk) und keine Frist. Der Eintrag „600 € Ingenieurs-Stipendium, Frist 15.11.2026“ (oben) ist **nicht bestätigt** – und braucht ein Studium in DE → für dich jetzt nicht relevant.
 
+**2026-11-02 – tägliche Suche (daily search)**
+- **Wichtige Änderung: Bayern kostet jetzt für Nicht-EU** (alles nur für neue Studierende):
+  - **THWS:** ab WS 2027/28 **750 € / Semester** (Bachelor) + **50 €** pro Bewerbung (application). Dafür gratis Sprachkurse und Hilfe beim Start. https://international.thws.de/en/thws-international/ways-to-thws/formalities-and-finances/
+  - **OTH Regensburg:** **500 € / Semester** Servicegebühr (service fee) für International Mechanical Engineering (seit WS 2024/25). Deutsche Studiengänge: keine Gebühr. Unser alter Eintrag „ohne Gebühren“ war falsch (wrong). https://www.oth-regensburg.de/en/study/before-the-study/studienbewerbung/servicegebuehren
+  - **TH Nürnberg:** **1.000 € / Semester** für Neue ab WS 2026/27, fast alle Fächer. https://www.th-nuernberg.de/internationales/ohm-international-school/internationale-semesterbeitraege/
+  - **FAU Erlangen-Nürnberg:** ab Sommersemester 2027 Bachelor meist **1.000, 2.000 oder 3.000 € / Semester** (je nach Fach), dazu **100 €** pro Bewerbung. https://www.fau.eu/studying/international-students/application-and-enrollment-for-international-applicants/tuition-fees-for-students-from-non-eu-states/
+  - **Achtung (attention):** Das Studienkolleg befreit (exempts) dich an OTH und TH Nürnberg **nicht** von der Gebühr.
+- **Deutschlandstipendium OVGU Magdeburg** – **300 € / Monat**, mind. 2 Semester. Alle Nationalitäten. **Du darfst dich schon bewerben, wenn du noch auf die Zulassung (admission) wartest.** Bewerbung auch auf Englisch. Normalerweise 15. April – 15. Juni (2027 noch nicht bestätigt). Deine Note muss umgerechnet (converted) werden, meist über uni-assist. – Passung **hoch**. https://www.ovgu.de/deutschlandstipendiumfaq.html
+- **OVGU Haushaltsstipendium (budget scholarship)** – **992 € / Monat, 1 Jahr**, nur **2 Plätze pro Jahr**, für sehr gute Internationale. Frist (deadline) **25. März**. Stand 2025; ob das 1. Semester reicht: unklar – prüfen. – Passung **mittel**. https://www.ovgu.de/unimagdeburg_media/-p-90728.html
+- **Otto-von-Guericke-Stipendium (Stadt und Uni Magdeburg)** – **500 € / Monat, 1 Jahr**, Start November, Frist Juni/Juli. Bedingungen: unklar – prüfen. – Passung **mittel**. (gleiche Quelle (source))
+- **TU Chemnitz Georgius-Agricola-Leistungsstipendium** – **300 € / Monat, bis 6 Monate**, für Internationale in MINT-Bachelor **ab dem 3. Semester**, überdurchschnittliche (above-average) Leistung. Letzte Frist 21.10.2026. – Passung **später**. https://www.tu-chemnitz.de/international/incoming/stipendien
+- **Deutschlandstipendium TU Chemnitz** (Juni, nächste Runde Juni 2027) und **TU Ilmenau** (2026: 29. Juni – 17. Juli): 300 € / Monat. Ob Erstsemester (first-year students) sich bewerben dürfen: unklar – prüfen. – Passung **mittel**. https://tu-chemnitz.de/verwaltung/deutschlandstipendium/ausschreibung.php.en · https://www.tu-ilmenau.de/en/university/career/grants-and-foundations/scholarship-programs/deutschlandstipendium
+- **TUM (wenn du dort studierst):** Erlass (waiver) der Studiengebühren im 1. Semester bei finanzieller Not (financial need), Geld bekommst du dabei nicht. Dazu Stipendium **500–1.800 € einmalig pro Semester**. Bedingungen: unklar – prüfen. https://www.tum.de/en/studies/fees/tuition/scholarships-and-waivers
+- **Minijob und Mindestlohn ab 1.1.2027:** Mindestlohn **14,60 €**, Minijob-Grenze **633 € / Monat** (7.596 € / Jahr). https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/fuenfte-mindestlohnanpassungsverordnung-milov5.html · https://magazin.minijob-zentrale.de/minijob-grenze-2027
+- **TestAS:** Pflicht (mandatory) für die APS Vietnam ohne Uni-Abschluss. Anmeldefrist (registration deadline): Papier ca. **5 Wochen**, digital ca. **1 Woche** vor dem Test. Ergebnis (result): Papier ca. 4 Wochen, digital ca. 3 Wochen. Testzentrum in Vietnam: unklar – prüfen. https://www.testas.de/en/participants/my-testas/faq/faq-registration
+- **Studienkolleg Konstanz bestätigt (confirmed):** B1 zu Kursbeginn, 192,50 € pro Semester, Frist WS 2027/28 **1. Mai 2027**. Erst Zeugnisse anerkennen lassen (get recognised), dann Einladung (invitation) zum Aufnahmetest. Testtermin für WS noch nicht bekannt. https://www.htwg-konstanz.de/en/academics/center-for-international-students-konstanz/center-for-international-students/our-courses
+
 ## Abgelaufen (expired) / nächste Runde
 - 2026-10-31: Deutschlandstipendium 2026/27 (FU Berlin, TUM) – vorbei, nächste Runde Sommer 2027.
-- 2026-10-31: DAAD Hochschulsommerkurse 2027 – Frist 30. Okt laut FAQ, im Portal prüfen.
+- 2026-11-02: DAAD Hochschulsommerkurse 2027 – Frist 30. Okt 2026 vorbei (Portal geschlossen (closed)), nächste Runde 1. Sep – 30. Okt 2027.
+- 2026-11-02: Studienkolleg Konstanz Sommersemester 2027 – Frist 1. Nov 2026 vorbei (Aufnahmetest 22. Jan 2027). Nächste Frist 1. Mai 2027.
+- 2026-11-02: TU Chemnitz Agricola-Leistungsstipendium – Frist 21. Okt 2026 vorbei.
 
 ## Nicht mehr Hauptziel (main goal) (Austausch (exchange) über die VGU)
 - DAAD „Typ II“ über die VGU, Austausch Frankfurt UAS – nur falls (if) du doch an der VGU bleibst.
