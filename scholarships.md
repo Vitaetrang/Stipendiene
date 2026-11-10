@@ -1,6 +1,6 @@
 # Stipendien-Liste (scholarship list)
 
-Stand (as of): 2026-11-06 · **Ziel (goal): neuer Bachelor in Deutschland (Maschinenbau (mechanical engineering) o. ä.)** · Deutsch ca. B1
+Stand (as of): 2026-11-11 · **Ziel (goal): neuer Bachelor in Deutschland (Maschinenbau (mechanical engineering) o. ä.)** · Deutsch ca. B1
 
 **Passung (fit):** hoch = für dich als Erstsemester (first-year student) · mittel = mit Bedingungen (conditions) · nein = passt nicht · später (later) = Master
 
@@ -64,7 +64,7 @@ Stand (as of): 2026-11-06 · **Ziel (goal): neuer Bachelor in Deutschland (Masch
 - **Sperrkonto (blocked account)** fürs Visum: **992 € / Monat = 11.904 € / Jahr** (Quelle (source) ist ein Bankportal → bei der Botschaft bestätigen (confirm)). **Kann 2027 steigen (rise), siehe 2026-11-03.**
 - **Studiengebühren:** In 14 Bundesländern (federal states) **keine** (nur Semesterbeitrag ca. 100–430 €).
   Baden-Württemberg: 1.500 € / Semester (offiziell (officially) bestätigt). TUM: Bachelor meist 2.000 oder 3.000 € / Semester, **für Neue ab WS 2027/28: 2.300 oder 3.400 €** (siehe 2026-11-03).
-  **Bayern ist nicht mehr automatisch kostenlos:** THWS, OTH Regensburg, TH Nürnberg und FAU verlangen (charge) jetzt Geld von Nicht-EU-Studierenden (siehe 2026-11-02). Immer die Seite der Hochschule prüfen (check).
+  **Bayern ist nicht mehr automatisch kostenlos:** THWS, OTH Regensburg, TH Nürnberg, FAU und **HM München** (siehe 2026-11-11) verlangen (charge) jetzt Geld von Nicht-EU-Studierenden (siehe 2026-11-02). Immer die Seite der Hochschule prüfen (check).
 - **Arbeiten (Nicht-EU):** max. **140 ganze oder 280 halbe Tage pro Jahr**, keine Selbstständigkeit (self-employment).
   **Mindestlohn (minimum wage) 2026: 13,90 € / Stunde, ab 1.1.2027: 14,60 €.** **Minijob-Grenze (limit) 2026: 603 € / Monat, ab 1.1.2027: 633 €.**
 
@@ -193,6 +193,13 @@ Stand (as of): 2026-11-06 · **Ziel (goal): neuer Bachelor in Deutschland (Masch
 - **Wohngeld (housing benefit):** Die HAW Landshut nennt das als Hilfe für die Miete (rent). Erst bei der Ausländerbehörde (immigration office) fragen, das ist für dein Visum wichtig.
 - **Sperrkonto (blocked account), Arbeitsregeln (work rules), TestAS:** nichts Neues. Das BAföG ist noch kein Gesetz (law), die 992 € gelten weiter (still apply). Auf testas.de steht weiter kein Testzentrum in Vietnam.
 
+**2026-11-11 – tägliche Suche (daily search)**
+- **Hochschule München (HM): neue Gebühr (fee) für Nicht-EU.** Wer ab **WS 2026/27** neu anfängt, zahlt **500 € / Semester** im Bachelor (700 € im Master). Die Gebühr bleibt gleich bis zum Ende vom Studium. Ausnahmen (exemptions): § 8 der Gebührensatzung (fee regulations), die Seite nennt die Gruppen nicht → prüfen (check). Ob das auch für das Studienkolleg gilt: unklar. https://hm.edu/studium_1/bewerbung/faq_gebuehren_non_eu_auslaender.en.html
+- **Deutschlandstipendium HM München** – **300 € / Monat**, zuerst 2 Semester, Verlängerung (extension) möglich. **Auch neue Studierende (incoming students) dürfen sich bewerben**; im 1. Semester brauchst du keine Uni-Noten. Nationalität nicht genannt. Ausländische Zeugnisse (certificates) müssen anerkannt (recognised) sein, z. B. über uni-assist; Dokumente auf Deutsch oder Englisch. 2026: **27. April – 17. Mai**, Immatrikulation (enrolment) bis 1. Okt.; 2027 noch nicht bekannt. Achtung: Wenn du schon ein anderes Stipendium (ab 30 € / Monat) hast, musst du wählen (choose). Rechnung (calculation): 300 € × 6 Monate = 1.800 € pro Semester, minus 500 € Gebühr. – Passung **mittel** (Maschinenbau an der HM ist auf Deutsch → prüfen). https://mediapool.hm.edu/media/dachmarke/dm_lokal/career_center/pdfs/finanzierung/01_Ausschreibung_2026.pdf
+- **Nicht für dich:** **Motivationsstipendium (BIDS) Frankfurt UAS** – 2.700 € einmalig (one-time), aber nur für Leute von einer **deutschen Schule im Ausland** (z. B. DSD-Schule). Die VGU zählt nicht. – Passung **nein**. https://www.frankfurt-university.de/fileadmin/standard/Studium/International_Office/BIDS/Motivationsstip_Wintersemester_2026_27.pdf
+- **Sperrkonto (blocked account) / BAföG: nichts Neues.** Das Gesetz (law) ist noch **nicht beschlossen (not passed)**; nach der 1. Lesung (reading) am 15.10.2026 liegt es im Ausschuss (committee). Termin für die Abstimmung (vote): nicht bekannt. Die 992 € / Monat gelten weiter. Das Auswärtige Amt nennt keinen Betrag und keine Änderung für 2027. https://www.studierenplus.de/bafoeg/bafoeg-reform-2027 · https://www.auswaertiges-amt.de/en/sperrkonto/388600
+- **Noch offen (still open):** htw saar Frist (deadline) – Die Seite der Hochschule für „Maschinenbau/Verfahrenstechnik“ (deutsch) nennt **15. Juli**; für den englischen Studiengang (degree programme) habe ich die offizielle Seite wieder nicht geöffnet bekommen. B-First: keine neue offizielle Seite gefunden. TestAS: weiter kein Testzentrum in Vietnam gefunden.
+
 ## Abgelaufen (expired) / nächste Runde
 - 2026-10-31: Deutschlandstipendium 2026/27 (FU Berlin, TUM) – vorbei, nächste Runde Sommer 2027.
 - 2026-11-02: DAAD Hochschulsommerkurse 2027 – Frist 30. Okt 2026 vorbei (Portal geschlossen (closed)), nächste Runde 1. Sep – 30. Okt 2027.
@@ -206,6 +213,7 @@ Stand (as of): 2026-11-06 · **Ziel (goal): neuer Bachelor in Deutschland (Masch
 - 2026-11-05: HS Kaiserslautern Stipendium für Studienanfängerinnen – Frist 1. Nov. 2026 vorbei, nächste Runde wohl (probably) 2027.
 - 2026-11-05: GEMÜ-Stipendium HS Heilbronn und Deutschlandstipendium HS Aalen 2026/27 – vorbei, nächste Runde 2027.
 - 2026-11-06: B-First 2026, Deutschlandstipendium 2026/27 an HS Osnabrück und HS Biberach, HSBI-Stipendium (31. Juli), RIVA-Stipendium – vorbei, nächste Runde 2027.
+- 2026-11-11: Deutschlandstipendium 2026/27 an der HM München (17. Mai 2026) und Motivationsstipendium Frankfurt UAS (30. Sep. 2026) – vorbei.
 
 ## Nicht mehr Hauptziel (main goal) (Austausch (exchange) über die VGU)
 - DAAD „Typ II“ über die VGU, Austausch Frankfurt UAS – nur falls (if) du doch an der VGU bleibst.
