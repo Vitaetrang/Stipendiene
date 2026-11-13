@@ -1,6 +1,6 @@
 # Stipendien-Liste (scholarship list)
 
-Stand (as of): 2026-11-12 · **Ziel (goal): neuer Bachelor in Deutschland (Maschinenbau (mechanical engineering) o. ä.)** · Deutsch ca. B1
+Stand (as of): 2026-11-13 · **Ziel (goal): neuer Bachelor in Deutschland (Maschinenbau (mechanical engineering) o. ä.)** · Deutsch ca. B1
 
 **Passung (fit):** hoch = für dich als Erstsemester (first-year student) · mittel = mit Bedingungen (conditions) · nein = passt nicht · später (later) = Master
 
@@ -18,7 +18,7 @@ Stand (as of): 2026-11-12 · **Ziel (goal): neuer Bachelor in Deutschland (Masch
 |---|---|---|
 | **APS-Zertifikat** | Die Akademische Prüfstelle (academic evaluation centre) an der Deutschen Botschaft (embassy) Hanoi prüft (checks) deine Zeugnisse (certificates). Gebühr (fee): **150 USD**, digital +20 USD. Abgabe (submission) jederzeit (anytime). | Zusätzlich (additionally) **TestAS** (3× pro Jahr, Anmeldung (registration) bei testas.de). Zweiter Bachelor: Regeln (rules) direkt bei der APS fragen. |
 | **Direkt zur Uni** | **2 Vollzeit-Studienjahre (full-time study years)** an einer anerkannten (recognised) Uni in Vietnam → direkter, **fachgebundener (subject-restricted)** Zugang (access) | Mechatronik → Maschinenbau: Verwandtschaft (relation) der Fächer mit uni-assist prüfen |
-| **Studienkolleg (T-Kurs)** | 1 Jahr Vorbereitung (preparation), dann Feststellungsprüfung (assessment exam). Staatliche (state) Studienkollegs sind **oft ohne Studiengebühr (tuition fee), aber nicht immer** (Korrektur (correction) 2026-11-05: Hannover 350 € / Semester, Zittau 2.100 € / Semester; 2026-11-06: Sachsen kostet seit WS 2026/27 Geld, Betrag unklar). 1 Studienjahr in Vietnam reicht (is enough), wenn die Schulnoten nicht reichen. | **Mit B1 möglich (possible):** z. B. **Studienkolleg Konstanz** (T-Kurs, B1 offiziell (officially), 192,50 € Verwaltungsgebühr (admin fee) pro Semester, Bewerbung bis **1. Mai 2027** für WS 2027/28). Bayern: Aufnahmeprüfung (entrance exam) B1+/B2, aber **Vorkurs (pre-course) mit B1** möglich. **Auch B1:** **Frankfurt** (T-Kurs, nur Semesterbeitrag (semester fee), Bewerbung ca. 25. März – 1. Mai) und **KIT Karlsruhe** (T-Kurs, aber 550 € Kursgebühr + 201,50 €, siehe 2026-11-12), siehe 2026-11-04. **Neu:** **Hannover**, **TU Darmstadt**, **Zittau**, siehe 2026-11-05. **Sachsen (Leipzig):** B1 nur mit B2-Kurs, siehe 2026-11-06. Viele andere: **B2** (z. B. Kaiserslautern: B2, Bewerbung bis 14. April). Unterricht auf B2/C1, am Ende **C1** – du lernst Deutsch im Kolleg weiter. |
+| **Studienkolleg (T-Kurs)** | 1 Jahr Vorbereitung (preparation), dann Feststellungsprüfung (assessment exam). Staatliche (state) Studienkollegs sind **oft ohne Studiengebühr (tuition fee), aber nicht immer** (Korrektur (correction) 2026-11-05: Hannover 350 € / Semester, Zittau 2.100 € / Semester; 2026-11-06: Sachsen kostet seit WS 2026/27 Geld, Betrag unklar). 1 Studienjahr in Vietnam reicht (is enough), wenn die Schulnoten nicht reichen. | **Mit B1 möglich (possible):** z. B. **Studienkolleg Konstanz** (T-Kurs, B1 offiziell (officially), 192,50 € Verwaltungsgebühr (admin fee) pro Semester, Bewerbung bis **1. Mai 2027** für WS 2027/28). Bayern: Aufnahmeprüfung (entrance exam) B1+/B2, aber **Vorkurs (pre-course) mit B1** möglich. **Auch B1:** **Frankfurt** (T-Kurs, nur Semesterbeitrag (semester fee), Bewerbung ca. 25. März – 1. Mai) und **KIT Karlsruhe** (T-Kurs, aber 550 € Kursgebühr + 201,50 €, siehe 2026-11-12), siehe 2026-11-04. **Neu:** **Hannover**, **TU Darmstadt**, **Zittau**, siehe 2026-11-05. **Sachsen (Leipzig):** B1 nur mit B2-Kurs, siehe 2026-11-06. **Mainz: B2 nötig**, siehe 2026-11-13. Viele andere: **B2** (z. B. Kaiserslautern: B2, Bewerbung bis 14. April). Unterricht auf B2/C1, am Ende **C1** – du lernst Deutsch im Kolleg weiter. |
 | **Sprache fürs Studium** | Deutsch: ca. **C1** (DSH-2 / TestDaF 4×4). Englisch: IELTS/TOEFL | Englischer Studiengang (degree programme) = vielleicht (maybe) schneller |
 
 **Englische Maschinenbau-Bachelor (Beispiele; Kosten geändert (changed), siehe 2026-11-02):**
@@ -207,6 +207,14 @@ Stand (as of): 2026-11-12 · **Ziel (goal): neuer Bachelor in Deutschland (Masch
 - **Studienkolleg Frankfurt:** keine neuen Termine für WS 2027/28; weiter B1, ÖSD nicht genannt, nur Semesterbeitrag. **Studienkolleg Mainz:** Die Bewerbungsseite nennt das Deutsch-Niveau nicht (eigene Seite „Nachweis Deutschkenntnisse“) → weiter prüfen.
 - **Sperrkonto (blocked account) / BAföG:** nichts Neues, keine Abstimmung (vote) gefunden; die 992 € / Monat gelten weiter. htw saar (Frist), B-First (offizielle Kriterien) und TestAS in Vietnam: weiter offen.
 - ⚠️ **e-fellows Ingenieurs-Stipendium: Frist 15. Nov. 2026 (in 3 Tagen).** Für dich wohl (probably) noch nicht möglich (Studium in DE/AT nötig).
+
+**2026-11-13 – tägliche Suche (daily search)**
+- **Heute kein neues Geld für dich gefunden.**
+- **Studienkolleg Mainz (ISSK): B1 reicht nicht (is not enough).** Die offizielle Seite zum Deutsch-Nachweis (proof) nennt erst **B2** (z. B. ÖSD B2, DSH 1, DSD II). ÖSD wird akzeptiert (accepted), aber nur ab B2. – Passung **nein** (mit B1). https://issk-en.uni-mainz.de/preparatory-college-studienkolleg/application/application-german-knowledge/
+- **Nicht für dich:** **Bechtle-Stiftung (HS Heilbronn / TUM Campus Heilbronn)** – 300 € / Monat, für Leute, deren Eltern nicht studiert haben, aber **nur Informatik (computer science)** und erst **ab dem 3. Semester**; Frist 2026: 15. Juni – 31. Aug. – **nein**. https://bechtle-stiftung.career.softgarden.de/jobs/65287756/Stipendium-der-Bechtle-Stiftung-f%C3%BCr-Erstakademiker-innen-an-der-Hochschule-Heilbronn-TUM-Campus-Heilbronn/
+- **Sperrkonto (blocked account) / BAföG:** nichts Neues. Kein Termin für die Abstimmung (vote), die 992 € / Monat gelten weiter.
+- **htw saar:** Frist (deadline) für den englischen Studiengang weiter unklar; die Seite der Hochschule konnte ich wieder nicht öffnen.
+- ⚠️ **e-fellows Ingenieurs-Stipendium: Frist 15. Nov. 2026 (in 2 Tagen)** – für dich wohl noch nicht möglich. ⚠️ **Deutschlandstipendium HAW Hamburg: 1.–31. Dez. 2026** – für dich zu früh (Start erst 2027/28), nächste Runde Dez. 2027.
 
 ## Abgelaufen (expired) / nächste Runde
 - 2026-10-31: Deutschlandstipendium 2026/27 (FU Berlin, TUM) – vorbei, nächste Runde Sommer 2027.
