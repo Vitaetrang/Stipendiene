@@ -1,9 +1,17 @@
 # transfer.md – handoff for the next session
 
-## Current state (2026-11-14, daily run)
+## Current state (2026-11-15, daily run)
 - Goal: new Bachelor in Germany as a freshman (Maschinenbau or other engineering),
   German B1 only, needs living-cost money. See AGENTS.md profile.
-- Daily run 2026-11-14: **htw saar Mechanical Engineering deadline resolved via DAAD International Programmes (official): 15 July,
+- Daily run 2026-11-15: nothing new that fits. **Frankfurt Studienkolleg test is IN PERSON only** ("Eine Online-Teilnahme
+  ist nicht moeglich"), B1 still ok, OESD not named, SS 2027 test 16 Jan 2027, WS 2027/28 test date not yet listed,
+  no kolleg fee, FSP 100 EUR. Carl Benz School KIT (English ME B.Sc., IELTS 6.5, 30 Apr) = nein: 7,000 EUR/semester
+  + 1,689.20 KIT non-EU fee (~30k/yr incl. living); Hector name scholarship page unreadable (encoded).
+  Machineseeker (e-fellows): only this year's Abitur grads, Ruhr unis, text still WS 2025/26 -> probably nein;
+  company page not reachable. TU Dresden Elektro-Start Deutschlandstipendium = Diplom EE, German -> spaeter.
+  BAfoeG: committee lists only the 9 Nov AFBG hearing; nothing on student BAfoeG. e-fellows ING and Schmalkalden
+  15 Nov moved to expired. ANDRITZ Schuler still aggregator-only.
+- Previous run 2026-11-14: **htw saar Mechanical Engineering deadline resolved via DAAD International Programmes (official): 15 July,
   IELTS 5.5 / TOEFL 72, no tuition, 414 EUR semester fee, own application portal** (portal 30 Sep is wrong).
   RUB Deutschlandstipendium: 300 EUR, prospective first-semester students can apply (group 2, 2026: 6-16 Jul; intl WS starters
   maybe group 1, 27 Apr-14 May); RUB Maschinenbau is German-taught -> mittel/spaeter. RUB first-year 12x300 lead still unconfirmed.
@@ -75,15 +83,15 @@
 0. HM Muenchen: confirm Maschinenbau language on hm.edu; which groups are exempt under section 8(2) of the fee rules. B-First: find the foundation's official criteria page (nationality, age, German, prior study abroad), 2027 window. Kempten: focus fields.
 1. Update the website artifact with the finds since 2026-10-31 (read it, edit DATA, republish with url).
 2. Heilbronn: WS 2027/28 scholarship deadline, nationality, ESEM English level, whether the BW fee applies. UDE ISE: resolve B1 vs DSH-2 (ask ISE office), whether OESD B1 and a VGU Medium-of-Instruction letter count, semester fee.
-3. Frankfurt Studienkolleg: does OESD B1 count; WS 2027/28 dates and test date. KIT T-Kurs: which course the 550 EUR Kursgebuehr is for, WS 2027/28 exam date. Hannover: accepted certificates for T course (stk.uni-hannover.de). TU Darmstadt: deadline, fees. Still to check for B1: Koethen. (Mainz 2026-11-13 and Marburg 2026-11-14 resolved: B2.) Frankfurt: is the Hessen test online now? Saxony: fee amount.
+3. Frankfurt Studienkolleg: does OESD B1 count; WS 2027/28 test date (test is in person, resolved 2026-11-15). KIT T-Kurs: which course the 550 EUR Kursgebuehr is for, WS 2027/28 exam date. Hannover: accepted certificates for T course (stk.uni-hannover.de). TU Darmstadt: deadline, fees. Still to check for B1: Koethen. (Mainz 2026-11-13 and Marburg 2026-11-14 resolved: B2.) Saxony: fee amount.
 4. HAW Hamburg: official non-EU deadline (myHAW; portal says 30 Nov). THWS, Aalen: portal deadlines conflict.
 5. Blocked account: watch committee hearing, Bundestag vote, embassy / Auswaertiges Amt announcement of the new amount. Check Studienbewerber amount.
 6. NRW: official source for "no non-EU fee" still missing. Check fees at other Bavarian HAWs; re-check Kaiserslautern and OVGU for service fees; TUHH costs and English level.
 7. Festo Bildungsfonds: not listed. TU Clausthal page says up to 40,000 EUR with CareerConcept, income-based repayment (not a gift); GradGermany ties it to HDBW only. bildungsfonds.de not reached. FH Muenster page failed to load. Confirm before listing.
 8. TestAS: testas.de still names no centre in Vietnam (checked 2026-11-05). Exact registration dates for 25 Feb / 18 Mar 2027 and whether a centre exists in Hanoi/HCMC (still unknown).
 9. Ask uni-assist / anabin whether VGU Mechatronics counts as related to Maschinenbau; APS rules for a second Bachelor; DAAD course rule for VGU.
-10. RUB Maschinenbau first-year scholarships: confirm on mb.rub.de (nationality, women-only grant). Confirm Machineseeker and ANDRITZ Schuler on official pages (foreign school certificate ok? nationality?). More first-year money: company scholarships (MTU Stiftung and others on TU Clausthal list: no details yet), dual-study providers accepting non-EU; THM is+i details. Duales search found only job ads, no non-EU statement.
-11. Watch: e-fellows ING 15 Nov 2026 and Schmalkalden 15 Nov 2026 (move both to expired next run), HAW Hamburg Deutschlandstipendium 1-31 Dec 2026 (too early for owner), Schmalkalden 15 Nov 2026 (too early for owner), HM Deutschlandstipendium ~late Apr-mid May 2027, Hamburg Studienkolleg 1 Mar 2027 (B2), Frankfurt Studienkolleg test 16 Jan 2027 (SS only), Heilbronn scholarship 15 Feb 2027 (SS only), OVGU budget scholarship 25 Mar 2027, Kaiserslautern Studienkolleg 14 Apr 2027, THM uni-assist 1 Apr-15 Jul, Konstanz and Frankfurt Studienkolleg 1 May 2027, UDE May-Jul, Deutschlandstipendium rounds spring/summer 2027, uni-assist WS 2027/28 (usually 15 July), DAAD Hochschulwinterkurse (1 Jun - 31 Jul 2027), Schmalkalden 1 Sep-15 Nov 2027.
+10. RUB Maschinenbau first-year scholarships: confirm on mb.rub.de (nationality, women-only grant). Confirm ANDRITZ Schuler on official page (career.schulergroup.com; foreign school certificate ok? nationality?). Machineseeker = probably nein (German Abitur this year). Carl Benz School Hector scholarship: only relevant if it covers the 7,000 EUR fee - low priority. More first-year money: company scholarships (MTU Stiftung and others on TU Clausthal list: no details yet), dual-study providers accepting non-EU; THM is+i details. Duales search found only job ads, no non-EU statement.
+11. Watch: HAW Hamburg Deutschlandstipendium 1-31 Dec 2026 (too early for owner), HM Deutschlandstipendium ~late Apr-mid May 2027, Hamburg Studienkolleg 1 Mar 2027 (B2), Frankfurt Studienkolleg test 16 Jan 2027 (SS only), Heilbronn scholarship 15 Feb 2027 (SS only), OVGU budget scholarship 25 Mar 2027, Kaiserslautern Studienkolleg 14 Apr 2027, THM uni-assist 1 Apr-15 Jul, Konstanz and Frankfurt Studienkolleg 1 May 2027, UDE May-Jul, Deutschlandstipendium rounds spring/summer 2027, uni-assist WS 2027/28 (usually 15 July), DAAD Hochschulwinterkurse (1 Jun - 31 Jul 2027), Schmalkalden 1 Sep-15 Nov 2027.
 
 ## Background
 - Full living-cost scholarships for international first-year Bachelor students are
@@ -111,3 +119,4 @@
 - 2026-11-12 – Daily run: KIT Studienkolleg costs (550 + 201.50 EUR) and dates, HM Maschinenbau flyer; TU Dresden MINT and Thomas Weiland ruled out; BAfoeG/htw saar/B-First unchanged.
 - 2026-11-13 – Daily run: Mainz Studienkolleg needs B2 (nein), Bechtle-Stiftung ruled out, RUB lead unconfirmed; BAfoeG/htw saar unchanged.
 - 2026-11-14 – Daily run: htw saar deadline 15 Jul confirmed (DAAD), RUB Deutschlandstipendium for incoming students, Studienkolleg Mittelhessen B2 (nein, online test); BAfoeG unchanged; 2 company leads unconfirmed.
+- 2026-11-15 – Daily run: Frankfurt Studienkolleg test in person only (no online), Carl Benz School KIT too expensive (nein), Machineseeker probably nein; e-fellows ING and Schmalkalden moved to expired; BAfoeG unchanged.
