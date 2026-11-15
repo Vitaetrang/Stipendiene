@@ -1,6 +1,6 @@
 # Stipendien-Liste (scholarship list)
 
-Stand (as of): 2026-11-15 · **Ziel (goal): neuer Bachelor in Deutschland (Maschinenbau (mechanical engineering) o. ä.)** · Deutsch ca. B1
+Stand (as of): 2026-11-16 · **Ziel (goal): neuer Bachelor in Deutschland (Maschinenbau (mechanical engineering) o. ä.)** · Deutsch ca. B1
 
 **Passung (fit):** hoch = für dich als Erstsemester (first-year student) · mittel = mit Bedingungen (conditions) · nein = passt nicht · später (later) = Master
 
@@ -18,7 +18,7 @@ Stand (as of): 2026-11-15 · **Ziel (goal): neuer Bachelor in Deutschland (Masch
 |---|---|---|
 | **APS-Zertifikat** | Die Akademische Prüfstelle (academic evaluation centre) an der Deutschen Botschaft (embassy) Hanoi prüft (checks) deine Zeugnisse (certificates). Gebühr (fee): **150 USD**, digital +20 USD. Abgabe (submission) jederzeit (anytime). | Zusätzlich (additionally) **TestAS** (3× pro Jahr, Anmeldung (registration) bei testas.de). Zweiter Bachelor: Regeln (rules) direkt bei der APS fragen. |
 | **Direkt zur Uni** | **2 Vollzeit-Studienjahre (full-time study years)** an einer anerkannten (recognised) Uni in Vietnam → direkter, **fachgebundener (subject-restricted)** Zugang (access) | Mechatronik → Maschinenbau: Verwandtschaft (relation) der Fächer mit uni-assist prüfen |
-| **Studienkolleg (T-Kurs)** | 1 Jahr Vorbereitung (preparation), dann Feststellungsprüfung (assessment exam). Staatliche (state) Studienkollegs sind **oft ohne Studiengebühr (tuition fee), aber nicht immer** (Korrektur (correction) 2026-11-05: Hannover 350 € / Semester, Zittau 2.100 € / Semester; 2026-11-06: Sachsen kostet seit WS 2026/27 Geld, Betrag unklar). 1 Studienjahr in Vietnam reicht (is enough), wenn die Schulnoten nicht reichen. | **Mit B1 möglich (possible):** z. B. **Studienkolleg Konstanz** (T-Kurs, B1 offiziell (officially), 192,50 € Verwaltungsgebühr (admin fee) pro Semester, Bewerbung bis **1. Mai 2027** für WS 2027/28). Bayern: Aufnahmeprüfung (entrance exam) B1+/B2, aber **Vorkurs (pre-course) mit B1** möglich. **Auch B1:** **Frankfurt** (T-Kurs, nur Semesterbeitrag (semester fee), Bewerbung ca. 25. März – 1. Mai, Test **nur vor Ort (in person)** in Frankfurt, siehe 2026-11-15) und **KIT Karlsruhe** (T-Kurs, aber 550 € Kursgebühr + 201,50 €, siehe 2026-11-12), siehe 2026-11-04. **Neu:** **Hannover**, **TU Darmstadt**, **Zittau**, siehe 2026-11-05. **Sachsen (Leipzig):** B1 nur mit B2-Kurs, siehe 2026-11-06. **Mainz: B2 nötig**, siehe 2026-11-13. **Marburg / Mittelhessen: B2 nötig**, siehe 2026-11-14. Viele andere: **B2** (z. B. Kaiserslautern: B2, Bewerbung bis 14. April). Unterricht auf B2/C1, am Ende **C1** – du lernst Deutsch im Kolleg weiter. |
+| **Studienkolleg (T-Kurs)** | 1 Jahr Vorbereitung (preparation), dann Feststellungsprüfung (assessment exam). Staatliche (state) Studienkollegs sind **oft ohne Studiengebühr (tuition fee), aber nicht immer** (Korrektur (correction) 2026-11-05: Hannover 350 € / Semester, Zittau 2.100 € / Semester; 2026-11-06: Sachsen kostet seit WS 2026/27 Geld, Betrag unklar). 1 Studienjahr in Vietnam reicht (is enough), wenn die Schulnoten nicht reichen. | **Mit B1 möglich (possible):** z. B. **Studienkolleg Konstanz** (T-Kurs, B1 offiziell (officially), 192,50 € Verwaltungsgebühr (admin fee) pro Semester, Bewerbung bis **1. Mai 2027** für WS 2027/28). Bayern: Aufnahmeprüfung (entrance exam) B1+/B2, aber **Vorkurs (pre-course) mit B1** möglich. **Auch B1:** **Frankfurt** (T-Kurs, nur Semesterbeitrag (semester fee), Bewerbung ca. 25. März – 1. Mai, Test **nur vor Ort (in person)** in Frankfurt, siehe 2026-11-15) und **KIT Karlsruhe** (T-Kurs, aber 550 € Kursgebühr + 201,50 €, siehe 2026-11-12), siehe 2026-11-04. **Neu:** **Hannover** (ÖSD B1 zählt (counts), siehe 2026-11-16), **TU Darmstadt**, **Zittau**, siehe 2026-11-05. **Köthen** (Sachsen-Anhalt): B1, siehe 2026-11-16. **Sachsen (Leipzig):** B1 nur mit B2-Kurs, siehe 2026-11-06. **Mainz: B2 nötig**, siehe 2026-11-13. **Marburg / Mittelhessen: B2 nötig**, siehe 2026-11-14. Viele andere: **B2** (z. B. Kaiserslautern: B2, Bewerbung bis 14. April). Unterricht auf B2/C1, am Ende **C1** – du lernst Deutsch im Kolleg weiter. |
 | **Sprache fürs Studium** | Deutsch: ca. **C1** (DSH-2 / TestDaF 4×4). Englisch: IELTS/TOEFL | Englischer Studiengang (degree programme) = vielleicht (maybe) schneller |
 
 **Englische Maschinenbau-Bachelor (Beispiele; Kosten geändert (changed), siehe 2026-11-02):**
@@ -55,6 +55,7 @@ Stand (as of): 2026-11-15 · **Ziel (goal): neuer Bachelor in Deutschland (Masch
 | ~~Ev. Studienwerk Villigst~~ (evangelisch) | – | C1 | laut Uni-Liste nur EU-Bürger (Korrektur 2026-10-31) | **nein** |
 | **Avicenna-Studienwerk** (muslimisch) | unklar – prüfen | C1 / DSH-3 | eingeschrieben; § 8 BAföG? → prüfen | mittel |
 | **Hans-Böckler-Stiftung** | unklar – prüfen | C1 | eingeschrieben; § 8 BAföG? → prüfen | mittel |
+| **ANDRITZ Schuler Stipendium (Louis-Schuler-Fonds)** | 300 € / Monat, bis 12 Monate | nicht genannt | ab dem 2. Semester, Technik/Informatik, nicht mit Deutschlandstipendium; Frist 10. Feb. / 5. Sep. (siehe 2026-11-16) | mittel |
 | ~~Walter Blüchert Stiftung (hochform)~~ | – | C1 | **nur für Geflüchtete (refugees)** mit anerkanntem (recognised) Status | **nein** |
 
 > Böll, KAS, Naumann und Rosa-Luxemburg fördern (fund) Internationale **nur im Master** → Abschnitt (section) 6.
@@ -81,7 +82,7 @@ Stand (as of): 2026-11-15 · **Ziel (goal): neuer Bachelor in Deutschland (Masch
 
 | Name | Wie viel | Frist |
 |---|---|---|
-| DAAD Studienstipendium (MINT) | ca. 992 € / Monat | ca. Oktober |
+| DAAD Studienstipendium (MINT) | 992 € / Monat + 460 € / Jahr, Sprache mind. B1 | Portal ab 1. Juni, Ende im Portal (Update 2026-11-16) |
 | Heinrich-Böll-Stiftung | unklar | 01.03. / 01.09. |
 | Konrad-Adenauer-Stiftung | 812 € / Monat, B2 | Inland (in Germany) 15. Juli |
 | Rosa-Luxemburg-Stiftung | unklar, B2 | unklar |
@@ -230,6 +231,16 @@ Stand (as of): 2026-11-15 · **Ziel (goal): neuer Bachelor in Deutschland (Masch
 - **Machineseeker-Group-Stipendium** (500 € / Monat, 12 Monate, nur 3 Plätze): laut (according to) e-fellows nur für Leute, die **dieses Jahr Abitur** machen und an einer Uni im Ruhrgebiet (Essen, Bochum, Duisburg, Dortmund, Düsseldorf) mit MINT starten, Eltern nicht studiert. Der Text nennt noch WS 2025/26. Die Firmenseite konnte ich nicht öffnen. – wohl (probably) **nein** (deutsches Abitur). https://www.e-fellows.net/stipendien-datenbank/machineseeker-group-stipendium
 - **Nicht für dich:** **Elektro-Start-Deutschlandstipendium TU Dresden** – 300 € / Monat, nur Erstsemester im **Diplom Elektrotechnik** (auf Deutsch); 2026: 16. Juli – 15. Sep. – **später** (nur mit C1). https://tu-dresden.de/ing/elektrotechnik/studium/news/apply-now-for-an-elektro-start-deutschlandstipendium
 - **Sperrkonto (blocked account) / BAföG:** nichts Neues. Die einzige Anhörung (hearing) im Ausschuss (committee) war am 9. Nov. zum Aufstiegs-BAföG. Für das Studenten-BAföG: kein Termin. Die 992 € / Monat gelten weiter (still apply).
+- ⚠️ **Deutschlandstipendium HAW Hamburg: 1.–31. Dez. 2026** – für dich zu früh (Start erst 2027/28).
+
+**2026-11-16 – tägliche Suche (daily search)**
+- **Heute kein neues Geld für das 1. Jahr gefunden.**
+- **Studienkolleg Hannover (Niedersachsen) – Update:** Die HS Hannover sagt: mindestens **B1**, und **ÖSD B1 zählt (counts)** für die Bewerbung (application). Nur anerkannte (recognised) Zertifikate, keine privaten Sprachschulen. T-Kurs im Winter und im Sommer. Frist (deadline) für das Wintersemester über die HS Hannover: **15. Juni** (Fach mit NC) oder **31. Juli** (ohne NC). Kosten stehen dort nicht (laut 2026-11-05: 350 € / Semester + Semesterbeitrag). – Passung **hoch**. https://www.hs-hannover.de/en/about-us/organisation/akademische-angelegenheiten/studieninteressierte/studienkolleg
+- **Studienkolleg Köthen (Sachsen-Anhalt) – B1 reicht (is enough):** Die Hochschule Anhalt verlangt (requires) „TestDaF mindestens B1 oder vergleichbar (comparable)“. Unterricht nur auf Deutsch. Aufnahmetest (entrance test) im **Februar und August**, **30 € bar (in cash)**. Welche Zertifikate (ÖSD?) und Fristen: steht nicht dort → sekretariat.stk@hs-anhalt.de fragen. Du bewirbst dich über eine Hochschule in Sachsen-Anhalt. – Passung **mittel** (noch Fragen offen). https://www.hs-anhalt.de/en/international/application-for-international-students/studienkolleg/application.html · https://www.hs-anhalt.de/en/international/application-for-international-students/studienkolleg/acceptance-test.html
+- **ANDRITZ Schuler Stipendium – jetzt offiziell bestätigt (confirmed):** **300 € / Monat, bis 12 Monate**, danach neue Bewerbung möglich. Vor allem Ingenieur- und Informatik-Fächer, Bachelor zuerst. **Erst ab dem 2. Semester** an einer deutschen Hochschule. **Nicht** zusammen mit dem Deutschlandstipendium. Fristen: **10. Feb.** und **5. Sep.** Nationalität und Deutsch-Niveau: nicht genannt. – Passung **mittel / später**. https://career.schulergroup.com/en/scholarship/scholarship
+- **RUB Bochum Maschinenbau – Stipendien für Erstsemester jetzt bestätigt:** 3 Plätze, je **300 € / Monat, 12 Monate (3.600 €)**. 2 Plätze nur über NRW-Talentscouting (Schulen in NRW) → **nein**. 1 Platz nur für **Frauen**, Abitur-Note **2,0 oder besser**, Bewerbung bis zum Ende der Einschreibung (enrolment). Maschinenbau an der RUB ist auf Deutsch (≈ C1). – Passung **nein / später**. https://www.mb.rub.de/?p=2273
+- **DAAD Studienstipendium MINT (nur Master, Info für später):** 992 € / Monat + 460 € / Jahr, Sprache mind. B1 (Deutsch oder Englisch), Bachelor nötig, Portal ab **1. Juni**. https://www2.daad.de/deutschland/stipendium/datenbank/de/21148-stipendiendatenbank.pdf?detail=57742130
+- **Sperrkonto (blocked account) / BAföG:** nichts Neues. Der Bundestag-Ausschuss (committee) nennt keine Anhörung (hearing) zum Studenten-BAföG. Die 992 € / Monat gelten weiter (still apply). Arbeitsregeln (work rules): keine Änderung gefunden.
 - ⚠️ **Deutschlandstipendium HAW Hamburg: 1.–31. Dez. 2026** – für dich zu früh (Start erst 2027/28).
 
 ## Abgelaufen (expired) / nächste Runde
