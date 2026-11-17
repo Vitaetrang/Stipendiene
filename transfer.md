@@ -1,9 +1,17 @@
 # transfer.md – handoff for the next session
 
-## Current state (2026-11-17, daily run)
+## Current state (2026-11-18, daily run)
 - Goal: new Bachelor in Germany as a freshman (Maschinenbau or other engineering),
   German B1 only, needs living-cost money. See AGENTS.md profile.
-- Daily run 2026-11-17: nothing new for year-1 money. **New B1 Studienkolleg: TU Bergakademie Freiberg** (tu-freiberg.de/en/node/731):
+- Daily run 2026-11-18: nothing new for year-1 money. **New B1 route without Studienkolleg: BTU Cottbus "Bruecke zum Studium"**
+  (2-semester German prep to DSH/digital TestDaF, participants enrolled at BTU, only semester fee 373.80 EUR "no further fees",
+  WS start only, ~50 places, online variant: WS online from home + SS in Cottbus). Needs B1 (OESD B1 with min 70/100 points,
+  list dated 04/2021) AND direct HZB for a BTU course (= 2 passed VGU years). uni-assist; WS 2026/27 window was 1 Mar-15 Jul 2026.
+  BTU Maschinenbau B.Sc.: German, no NC, 391.80 EUR semester fee. SS 2027 Bachelor deadline 15 Jan 2027.
+  **BAfoeG: student-BAfoeG hearing (Drs. 21/8405) held 11 Nov 2026** (hib 929/2026, bundestag.de/1232910): housing 380->440 from SS 2027,
+  Grundbedarf "now 503" -> 563 from SS 2029 (hib figure; conflicts with older 475 / 1,075 info - verify). No vote date. Blocked account unchanged so far.
+  testas.de fetch needs approval (not available in scheduled run); frankfurt-university.de Studienkolleg page failed.
+- Previous run 2026-11-17: nothing new for year-1 money. **New B1 Studienkolleg: TU Bergakademie Freiberg** (tu-freiberg.de/en/node/731):
   B1 minimum, OESD accepted, T course; from SS 2027: 100 EUR application fee (credited), 800 EUR/semester, 200 EUR FSP;
   WS 2027/28: uni-assist 1 Apr-15 Jun 2027, kolleg by 25 Aug 2027, test 8 Sep 2027 (SS 2027: uni-assist 15 Dec 2026, test 10 Mar 2027);
   page says T course only in winter but lists summer dates -> ask. TUBAF Maschinenbau = German C1; TUBAF intl scholarships only 3rd sem+/last sem.
@@ -94,6 +102,7 @@
 5. Did either parent study at a university? Age at start? (Both decide B-First.)
 
 ## Next steps
+00. BTU Bruecke zum Studium: WS 2027/28 application window, current certificate list (OESD 70/100?), whether 2 VGU years give direct HZB for Maschinenbau, visa type, confirm "no further fees" and DSH fee. Blocked account: watch Bundestag vote on 21/8405 after the 11 Nov hearing; resolve 503 vs 475 Grundbedarf.
 0. HM Muenchen: confirm Maschinenbau language on hm.edu; which groups are exempt under section 8(2) of the fee rules. B-First: find the foundation's official criteria page (nationality, age, German, prior study abroad), 2027 window. Kempten: focus fields.
 1. Update the website artifact with the finds since 2026-10-31 (read it, edit DATA, republish with url).
 2. Heilbronn: WS 2027/28 scholarship deadline, nationality, ESEM English level, whether the BW fee applies. UDE ISE: resolve B1 vs DSH-2 (ask ISE office), whether OESD B1 and a VGU Medium-of-Instruction letter count, semester fee.
@@ -136,3 +145,4 @@
 - 2026-11-15 – Daily run: Frankfurt Studienkolleg test in person only (no online), Carl Benz School KIT too expensive (nein), Machineseeker probably nein; e-fellows ING and Schmalkalden moved to expired; BAfoeG unchanged.
 - 2026-11-16 – Daily run: Hannover Studienkolleg accepts OESD B1, Koethen Studienkolleg B1, ANDRITZ Schuler confirmed (from 2nd semester), RUB first-year grants nein; BAfoeG unchanged.
 - 2026-11-17 – Daily run: Studienkolleg Freiberg B1 + OESD (800 EUR/semester), TU Darmstadt Studienkolleg deadline 15 Mar-15 Apr; BAfoeG unchanged.
+- 2026-11-18 – Daily run: BTU Cottbus Bruecke zum Studium (B1 -> DSH, only semester fee, needs direct HZB); student-BAfoeG hearing held 11 Nov (housing 440 from SS 2027), no vote yet.
