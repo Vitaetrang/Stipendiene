@@ -1,9 +1,14 @@
 # transfer.md – handoff for the next session
 
-## Current state (2026-11-18, daily run)
+## Current state (2026-11-19, daily run)
 - Goal: new Bachelor in Germany as a freshman (Maschinenbau or other engineering),
   German B1 only, needs living-cost money. See AGENTS.md profile.
-- Daily run 2026-11-18: nothing new for year-1 money. **New B1 route without Studienkolleg: BTU Cottbus "Bruecke zum Studium"**
+- Daily run 2026-11-19: nothing new. KIT Studienkolleg sheet (2025) describes a T-course "Vormerkung OHNE Aufnahmetest":
+  B1 (finished B1/B2 course certificate), WS May-15 Jul, SS Nov-15 Jan, semester fee 190.70 EUR; criteria for test-free
+  admission, OESD and the 550 EUR Kursgebuehr unclear. Uni Rostock Motivationsstipendium weltweit (450 x 10) = DSD/German
+  schools abroad only -> nein. BAfoeG 21/8405: no 2nd/3rd reading found after the 11 Nov hearing; blocked account unchanged.
+  frankfurt-university.de Studienkolleg page failed again. TestAS 2027 dates: no new info.
+- Previous run 2026-11-18: nothing new for year-1 money. **New B1 route without Studienkolleg: BTU Cottbus "Bruecke zum Studium"**
   (2-semester German prep to DSH/digital TestDaF, participants enrolled at BTU, only semester fee 373.80 EUR "no further fees",
   WS start only, ~50 places, online variant: WS online from home + SS in Cottbus). Needs B1 (OESD B1 with min 70/100 points,
   list dated 04/2021) AND direct HZB for a BTU course (= 2 passed VGU years). uni-assist; WS 2026/27 window was 1 Mar-15 Jul 2026.
@@ -106,7 +111,7 @@
 0. HM Muenchen: confirm Maschinenbau language on hm.edu; which groups are exempt under section 8(2) of the fee rules. B-First: find the foundation's official criteria page (nationality, age, German, prior study abroad), 2027 window. Kempten: focus fields.
 1. Update the website artifact with the finds since 2026-10-31 (read it, edit DATA, republish with url).
 2. Heilbronn: WS 2027/28 scholarship deadline, nationality, ESEM English level, whether the BW fee applies. UDE ISE: resolve B1 vs DSH-2 (ask ISE office), whether OESD B1 and a VGU Medium-of-Instruction letter count, semester fee.
-3. Frankfurt Studienkolleg: does OESD B1 count; WS 2027/28 test date (test is in person, resolved 2026-11-15). KIT T-Kurs: which course the 550 EUR Kursgebuehr is for, WS 2027/28 exam date. Hannover: OESD B1 ok (resolved 2026-11-16); confirm 350 EUR fee and exam dates on stk.uni-hannover.de. TU Darmstadt: fees (deadline resolved 2026-11-17: WS 15 Mar-15 Apr). Freiberg: T course start WS only?, confirm fees. Koethen: B1 (resolved 2026-11-16); ask which certificates (OESD?), deadlines, which Sachsen-Anhalt unis offer Maschinenbau. (Mainz 2026-11-13 and Marburg 2026-11-14 resolved: B2.) Saxony: fee amount.
+3. Frankfurt Studienkolleg: does OESD B1 count; WS 2027/28 test date (test is in person, resolved 2026-11-15). KIT T-Kurs: which course the 550 EUR Kursgebuehr is for, WS 2027/28 exam date, when admission without entrance test applies (2026-11-19). Hannover: OESD B1 ok (resolved 2026-11-16); confirm 350 EUR fee and exam dates on stk.uni-hannover.de. TU Darmstadt: fees (deadline resolved 2026-11-17: WS 15 Mar-15 Apr). Freiberg: T course start WS only?, confirm fees. Koethen: B1 (resolved 2026-11-16); ask which certificates (OESD?), deadlines, which Sachsen-Anhalt unis offer Maschinenbau. (Mainz 2026-11-13 and Marburg 2026-11-14 resolved: B2.) Saxony: fee amount.
 4. HAW Hamburg: official non-EU deadline (myHAW; portal says 30 Nov). THWS, Aalen: portal deadlines conflict.
 5. Blocked account: watch committee hearing, Bundestag vote, embassy / Auswaertiges Amt announcement of the new amount. Check Studienbewerber amount.
 6. NRW: official source for "no non-EU fee" still missing. Check fees at other Bavarian HAWs; re-check Kaiserslautern and OVGU for service fees; TUHH costs and English level.
@@ -146,3 +151,4 @@
 - 2026-11-16 – Daily run: Hannover Studienkolleg accepts OESD B1, Koethen Studienkolleg B1, ANDRITZ Schuler confirmed (from 2nd semester), RUB first-year grants nein; BAfoeG unchanged.
 - 2026-11-17 – Daily run: Studienkolleg Freiberg B1 + OESD (800 EUR/semester), TU Darmstadt Studienkolleg deadline 15 Mar-15 Apr; BAfoeG unchanged.
 - 2026-11-18 – Daily run: BTU Cottbus Bruecke zum Studium (B1 -> DSH, only semester fee, needs direct HZB); student-BAfoeG hearing held 11 Nov (housing 440 from SS 2027), no vote yet.
+- 2026-11-19 – Daily run: nothing new; KIT T-course without entrance test (2025 sheet, B1), Uni Rostock DSD scholarship ruled out; BAfoeG/blocked account unchanged.
