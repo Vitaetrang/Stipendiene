@@ -1,6 +1,6 @@
 # Stipendien-Liste (scholarship list)
 
-Stand (as of): 2026-11-20 · **Ziel (goal): neuer Bachelor in Deutschland (Maschinenbau (mechanical engineering) o. ä.)** · Deutsch ca. B1
+Stand (as of): 2026-11-21 · **Ziel (goal): neuer Bachelor in Deutschland (Maschinenbau (mechanical engineering) o. ä.)** · Deutsch ca. B1
 
 **Passung (fit):** hoch = für dich als Erstsemester (first-year student) · mittel = mit Bedingungen (conditions) · nein = passt nicht · später (later) = Master
 
@@ -270,6 +270,14 @@ Stand (as of): 2026-11-20 · **Ziel (goal): neuer Bachelor in Deutschland (Masch
 - **BAföG / Sperrkonto (blocked account): Zahl (number) geklärt (clarified).** Laut dpa (9. Juli 2026): Grundbedarf (basic need) heute **475 €**, ab **WS 2027/28 503 €**, ab **SS 2029 563 €**; Wohnpauschale (housing allowance) 380 → 440 € ab SS 2027. Noch keine Abstimmung (vote) im Bundestag. Die 992 € / Monat gelten weiter (still apply). **Meine Meinung (my opinion):** Wenn das Gesetz kommt, steigt das Sperrkonto wohl ab 2027 – plane mit mehr Geld. https://www.volksstimme.de/deutschland-und-welt/deutschland/teil-der-bafog-reform-wird-verschoben-4282551
 - **TestAS:** testas.de nennt weiter **kein Testzentrum in Vietnam**; Termine nur im gast.de-Portal.
 - ⚠️ **Deutschlandstipendium HAW Hamburg: 1.–31. Dez. 2026** – für dich zu früh. ⚠️ Freiberg (SS 2027): uni-assist **15. Dez. 2026**; KIT Studienkolleg und BTU (SS 2027): **15. Jan. 2027** – für dich zu früh (APS und B1-Zertifikat fehlen noch).
+
+**2026-11-21 – tägliche Suche (daily search)**
+- **Heute kein neues Geld für das 1. Jahr gefunden.**
+- **TUM Stipendium für internationale Studierende – Bedingungen jetzt klarer (clearer):** einmalig (one-time) **500–1.800 € pro Semester**, nach finanzieller Not (financial need), aber erst **ab dem 3. Bachelor-Semester**. Bewerbung WS: 1.–15. Okt. (2026 vorbei). Quelle (source): nur eine Zusammenfassung (summary) der langen Seite → vor einer Bewerbung selbst prüfen (check). – Passung **später**. https://www.tum.de/studium/studienfinanzierung/stipendien/stipendien-der-tum/stipendium-fuer-internationale-studierende/
+- **TU Hamburg (TUHH):** Leistungsstipendium (merit scholarship) der Stadt Hamburg und DAAD-Abschlusshilfe – beide erst **nach dem 1. Semester**, Betrag nicht genannt, letzte Frist 20. Aug. 2026. – Passung **später**. https://www.tuhh.de/tuhh/en/international/incoming-and-integration-services/study-financing
+- **BTU Cottbus „Brücke zum Studium“ (Präsenz ab B1) – Update:** Die deutsche Seite nennt Bewerbung **1. März – 15. Juli 2027** (über uni-assist, nur Wintersemester). Die Seite schreibt dazu „WS 2026/27“ – das ist wohl (probably) ein Fehler, gemeint ist wohl **WS 2027/28** → per E-Mail bestätigen (confirm). Nötig: anerkanntes (recognised) **B1-Zertifikat** (ÖSD steht nur in der PDF-Liste) und Hochschulzugang (university entrance qualification) für ein BTU-Fach. DSH-Prüfung im Juni. – Passung bleibt **hoch** (wenn du 2 VGU-Jahre hast). https://www.b-tu.de/international/aus-dem-ausland-an-die-btu/vorbereitungsprogramme/bruecke-zum-studium/praesenz-ab-b1
+- **BAföG / Sperrkonto (blocked account):** nichts Neues. Bundestag-Seite (Stand 21.11.2026): nach der Anhörung (hearing) am 11. Nov. noch **keine Abstimmung (vote)**. Die 992 € / Monat gelten weiter (still apply). https://www.bundestag.de/dokumente/textarchiv/2026/kw46-pa-forschung-1230884
+- ⚠️ **Deutschlandstipendium HAW Hamburg: 1.–31. Dez. 2026** – für dich zu früh. ⚠️ Freiberg (SS 2027): uni-assist **15. Dez. 2026**; KIT Studienkolleg und BTU (SS 2027): **15. Jan. 2027**; Frankfurt Studienkolleg Test (SS 2027): **16. Jan. 2027** – für dich zu früh (APS und B1-Zertifikat fehlen noch).
 
 ## Abgelaufen (expired) / nächste Runde
 - 2026-10-31: Deutschlandstipendium 2026/27 (FU Berlin, TUM) – vorbei, nächste Runde Sommer 2027.
