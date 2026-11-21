@@ -1,6 +1,6 @@
 # Stipendien-Liste (scholarship list)
 
-Stand (as of): 2026-11-21 · **Ziel (goal): neuer Bachelor in Deutschland (Maschinenbau (mechanical engineering) o. ä.)** · Deutsch ca. B1
+Stand (as of): 2026-11-22 · **Ziel (goal): neuer Bachelor in Deutschland (Maschinenbau (mechanical engineering) o. ä.)** · Deutsch ca. B1
 
 **Passung (fit):** hoch = für dich als Erstsemester (first-year student) · mittel = mit Bedingungen (conditions) · nein = passt nicht · später (later) = Master
 
@@ -277,6 +277,13 @@ Stand (as of): 2026-11-21 · **Ziel (goal): neuer Bachelor in Deutschland (Masch
 - **TU Hamburg (TUHH):** Leistungsstipendium (merit scholarship) der Stadt Hamburg und DAAD-Abschlusshilfe – beide erst **nach dem 1. Semester**, Betrag nicht genannt, letzte Frist 20. Aug. 2026. – Passung **später**. https://www.tuhh.de/tuhh/en/international/incoming-and-integration-services/study-financing
 - **BTU Cottbus „Brücke zum Studium“ (Präsenz ab B1) – Update:** Die deutsche Seite nennt Bewerbung **1. März – 15. Juli 2027** (über uni-assist, nur Wintersemester). Die Seite schreibt dazu „WS 2026/27“ – das ist wohl (probably) ein Fehler, gemeint ist wohl **WS 2027/28** → per E-Mail bestätigen (confirm). Nötig: anerkanntes (recognised) **B1-Zertifikat** (ÖSD steht nur in der PDF-Liste) und Hochschulzugang (university entrance qualification) für ein BTU-Fach. DSH-Prüfung im Juni. – Passung bleibt **hoch** (wenn du 2 VGU-Jahre hast). https://www.b-tu.de/international/aus-dem-ausland-an-die-btu/vorbereitungsprogramme/bruecke-zum-studium/praesenz-ab-b1
 - **BAföG / Sperrkonto (blocked account):** nichts Neues. Bundestag-Seite (Stand 21.11.2026): nach der Anhörung (hearing) am 11. Nov. noch **keine Abstimmung (vote)**. Die 992 € / Monat gelten weiter (still apply). https://www.bundestag.de/dokumente/textarchiv/2026/kw46-pa-forschung-1230884
+- ⚠️ **Deutschlandstipendium HAW Hamburg: 1.–31. Dez. 2026** – für dich zu früh. ⚠️ Freiberg (SS 2027): uni-assist **15. Dez. 2026**; KIT Studienkolleg und BTU (SS 2027): **15. Jan. 2027**; Frankfurt Studienkolleg Test (SS 2027): **16. Jan. 2027** – für dich zu früh (APS und B1-Zertifikat fehlen noch).
+
+**2026-11-22 – tägliche Suche (daily search)**
+- **Heute kein neues Geld für das 1. Jahr gefunden.**
+- **Uni Tübingen „Come to Stay“ – Deutschkurs ab B1 bis zum Studium (Info, kein Stipendium):** Du brauchst einen aktuellen (current) **B1-Nachweis (proof)**; der Kurs bringt dich von B2 bis **C1**, am Ende **TestDaF (digital)**. Kurs 2027/28: Start **1. Okt. 2027**, 30 Wochen, TestDaF Anfang Juni 2028, Studium dann ab **Mitte Okt. 2028**. Kosten: **50 € Material + 210 € TestDaF** + Semesterbeitrag (Betrag nicht genannt). Einstufungstest (placement test) **online (ZOOM) im März 2027**, Bewerbung ab Anfang 2027 (genaue Frist (deadline): unklar – prüfen). ÖSD: nicht genannt. **Aber:** Die Uni Tübingen hat **keinen Maschinenbau**, und Baden-Württemberg kostet 1.500 € / Semester. Ob du einen direkten Hochschulzugang brauchst: unklar – prüfen. Quelle (source): Zusammenfassung (summary) der Seite. – Passung **mittel / niedrig** (eher (rather) BTU Cottbus). https://uni-tuebingen.de/de/274386
+- **Studienkolleg München (TUM): B1 reicht nicht (is not enough)** – T-Kurs nur mit **B2**; der Vorkurs mit B1 ist dort nur für Geflüchtete (refugees). Du kannst nur noch **einen** Kurs wählen (seit WS 2025/26). – Passung **nein** (mit B1). https://www.tum.de/studium/bewerbung/studienformen/studienkolleg
+- **BAföG / Sperrkonto (blocked account):** nichts Neues. Bundestag: noch **keine Abstimmung (vote)** nach der Anhörung (hearing) am 11. Nov. Die 992 € / Monat gelten weiter (still apply).
 - ⚠️ **Deutschlandstipendium HAW Hamburg: 1.–31. Dez. 2026** – für dich zu früh. ⚠️ Freiberg (SS 2027): uni-assist **15. Dez. 2026**; KIT Studienkolleg und BTU (SS 2027): **15. Jan. 2027**; Frankfurt Studienkolleg Test (SS 2027): **16. Jan. 2027** – für dich zu früh (APS und B1-Zertifikat fehlen noch).
 
 ## Abgelaufen (expired) / nächste Runde
