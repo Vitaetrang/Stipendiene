@@ -1,9 +1,13 @@
 # transfer.md – handoff for the next session
 
-## Current state (2026-11-22, daily run)
+## Current state (2026-11-25, daily run)
 - Goal: new Bachelor in Germany as a freshman (Maschinenbau or other engineering),
   German B1 only, needs living-cost money. See AGENTS.md profile.
-- Daily run 2026-11-22: nothing new for year-1 money. Uni Tuebingen "Come to Stay" (uni-tuebingen.de/de/274386, meta 2026-11-02):
+- Daily run 2026-11-25 (no runs logged 11-23/11-24): nothing new for year-1 money. TU Braunschweig Deutschlandstipendium: incoming WS starters
+  may apply (guest account, school certificate), "International Students explicitly encouraged", 300 EUR x 2 sem, 2026 window 1-30 Jun -> mittel (MB German).
+  HTWG Konstanz Dstip: conditional on admission, 2026 window 18 May-7 Jun -> mittel/spaeter. Uni Hamburg Dstip needs UHH enrolment (October call) -> spaeter.
+  Uni Stuttgart 2027/28 call still not out. Bundestag kw46 page (Stand 24.11.): no vote on 21/8405. AA Vietnam Sperrkonto page names no amount.
+- Previous run 2026-11-22: nothing new for year-1 money. Uni Tuebingen "Come to Stay" (uni-tuebingen.de/de/274386, meta 2026-11-02):
   B1 entry, B2->C1 course, TestDaF digital; course 2027/28 starts 1 Oct 2027 (30 weeks), study from mid-Oct 2028; 50 EUR material + 210 EUR TestDaF;
   online ZOOM placement test Mar 2027; deadline/HZB/OESD not stated; Tuebingen has no Maschinenbau + BW fee -> mittel/niedrig (from fetch summary).
   TUM Studienkolleg = B2 (Vorkurs B1 refugees only) -> nein. Bundestag kw46: still no 2nd/3rd reading of 21/8405. Frankfurt UAS Studienkolleg page still fails.
@@ -121,6 +125,7 @@
 5. Did either parent study at a university? Age at start? (Both decide B-First.)
 
 ## Next steps
+0000. Watch Uni Stuttgart Dstip 2027/28 call (Dec 2026); TU Braunschweig / HTWG Konstanz 2027 Dstip windows (spring 2027); whether TU BS accepts Studienkolleg graduates as incoming freshmen.
 000. Uni Tuebingen Come to Stay: exact 2027 deadline, whether direct HZB is required, OESD accepted, which degree programmes (engineering? no MB). Low priority vs BTU Bruecke.
 00. BTU Bruecke zum Studium: confirm 1 Mar-15 Jul 2027 window is for WS 2027/28 (page typo), current certificate list (OESD 70/100?), whether 2 VGU years give direct HZB for Maschinenbau, visa type, confirm "no further fees" and DSH fee. Blocked account: watch Bundestag vote on 21/8405 after the 11 Nov hearing (475/503/563 resolved 2026-11-20).
 0. HM Muenchen: confirm Maschinenbau language on hm.edu; which groups are exempt under section 8(2) of the fee rules. B-First: find the foundation's official criteria page (nationality, age, German, prior study abroad), 2027 window. Kempten: focus fields.
@@ -170,3 +175,4 @@
 - 2026-11-20 – Daily run: nothing new for year 1; KIT Studienkolleg costs resolved (550 EUR = German courses), Uni Stuttgart Deutschlandstipendium (January, SS enrolment), BAfoeG 475/503/563 clarified; no vote yet.
 - 2026-11-21 – Daily run: nothing new for year 1; TUM intl scholarship from 3rd semester, TUHH merit after 1st semester, BTU Bruecke window 1 Mar-15 Jul 2027; BAfoeG no vote yet.
 - 2026-11-22 – Daily run: nothing new for year 1; Uni Tuebingen 'Come to Stay' B1->C1 course (no Maschinenbau, mittel/niedrig), TUM Studienkolleg B2 (nein); BAfoeG no vote yet.
+- 2026-11-25 – Daily run: nothing new for year 1; Deutschlandstipendium TU Braunschweig (incoming students ok) and HTWG Konstanz (conditional on admission) added, Uni Hamburg needs enrolment; BAfoeG no vote yet.
