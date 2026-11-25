@@ -1,6 +1,6 @@
 # Stipendien-Liste (scholarship list)
 
-Stand (as of): 2026-11-25 · **Ziel (goal): neuer Bachelor in Deutschland (Maschinenbau (mechanical engineering) o. ä.)** · Deutsch ca. B1
+Stand (as of): 2026-11-26 · **Ziel (goal): neuer Bachelor in Deutschland (Maschinenbau (mechanical engineering) o. ä.)** · Deutsch ca. B1
 
 **Passung (fit):** hoch = für dich als Erstsemester (first-year student) · mittel = mit Bedingungen (conditions) · nein = passt nicht · später (later) = Master
 
@@ -293,6 +293,14 @@ Stand (as of): 2026-11-25 · **Ziel (goal): neuer Bachelor in Deutschland (Masch
 - **Nicht für dich (vor dem Start):** **Deutschlandstipendium Uni Hamburg** – nur mit **Immatrikulationsbescheinigung (certificate of enrolment)** der Uni Hamburg, ein Zulassungsbescheid reicht nicht; Bewerbung jedes Jahr im Oktober (2026: 5.–25. Okt.). – **später**. https://www.uni-hamburg.de/en/deutschlandstipendium/bewerber/bewerbungsschritte-und-faq.html
 - **Uni Stuttgart Deutschlandstipendium:** Runde 2027/28 noch nicht veröffentlicht (published) („wohl im Dezember 2026“). Keine Änderung.
 - **BAföG / Sperrkonto (blocked account):** nichts Neues. Bundestag-Seite (Stand 24.11.2026): noch **keine Abstimmung (vote)**. Die Seite vom Auswärtigen Amt Vietnam nennt keinen Betrag und keine Änderung für 2027. Die 992 € / Monat gelten weiter (still apply). https://www.bundestag.de/dokumente/textarchiv/2026/kw46-pa-forschung-1230884
+- ⚠️ **Deutschlandstipendium HAW Hamburg: 1.–31. Dez. 2026** – für dich zu früh. ⚠️ Freiberg (SS 2027): uni-assist **15. Dez. 2026**; KIT Studienkolleg und BTU (SS 2027): **15. Jan. 2027**; Frankfurt Studienkolleg Test (SS 2027): **16. Jan. 2027** – für dich zu früh (APS und B1-Zertifikat fehlen noch).
+
+**2026-11-26 – Suche (search, Mo + Do)**
+- **Heute kein neues Geld für das 1. Jahr gefunden.**
+- **Nicht für dich (vor dem Start):** **Deutschlandstipendium Uni Göttingen** – 300 € / Monat, alle Nationalitäten, aber du musst **schon eingeschrieben (enrolled)** sein und ein Studenten-Konto haben. Bewerbung wohl (probably) 1.–30. Sep. 2027 (die Seite ist unklar – prüfen). Göttingen hat keinen Maschinenbau. – **später / nein**. https://www.uni-goettingen.de/en/220179.html
+- **Uni Stuttgart Deutschlandstipendium:** Runde 2027/28 (April 2027 – März 2028) noch **nicht veröffentlicht (published)**, „wohl im Dezember 2026“. Für Erstsemester: Schulnote mind. **1,9** (deutsche Skala). Keine Änderung für dich (Runde Jan. 2028). https://www.student.uni-stuttgart.de/en/financing/deutschlandstipendium/application/
+- **BAföG / Sperrkonto (blocked account):** nichts Neues. Noch **keine Abstimmung (vote)** im Bundestag (Stand 19.11.; kein Termin gefunden). Plan: Wohnpauschale 440 € ab 1.4.2027, Grundbedarf 503 € ab 1.8.2027. Die 992 € / Monat gelten weiter (still apply). https://www.bundestag.de/1232910
+- **TestAS:** testas.de nennt weiter kein Testzentrum in Vietnam. **Frankfurt UAS Studienkolleg-Seite:** wieder nicht geöffnet.
 - ⚠️ **Deutschlandstipendium HAW Hamburg: 1.–31. Dez. 2026** – für dich zu früh. ⚠️ Freiberg (SS 2027): uni-assist **15. Dez. 2026**; KIT Studienkolleg und BTU (SS 2027): **15. Jan. 2027**; Frankfurt Studienkolleg Test (SS 2027): **16. Jan. 2027** – für dich zu früh (APS und B1-Zertifikat fehlen noch).
 
 ## Abgelaufen (expired) / nächste Runde

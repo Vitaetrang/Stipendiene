@@ -1,9 +1,12 @@
 # transfer.md – handoff for the next session
 
-## Current state (2026-11-25, daily run)
+## Current state (2026-11-26, Mon/Thu run)
+- Run 2026-11-26: nothing new for year-1 money. Uni Goettingen Dstip needs enrolment + student account (window likely 1-30 Sep 2027, page contradictory), no MB -> spaeter/nein.
+  Uni Stuttgart 2027/28 call still not out ("probably December 2026"); freshmen need HZB grade >= 1.9. BAfoeG: no vote yet (netz-trends Stand 19.11., no date);
+  draft: housing 440 from 1 Apr 2027, Grundbedarf 503 from 1 Aug 2027. TestAS page: no Vietnam centre. frankfurt-university.de and bafoeg-rechner.de fetches failed.
 - Goal: new Bachelor in Germany as a freshman (Maschinenbau or other engineering),
   German B1 only, needs living-cost money. See AGENTS.md profile.
-- Daily run 2026-11-25 (no runs logged 11-23/11-24): nothing new for year-1 money. TU Braunschweig Deutschlandstipendium: incoming WS starters
+- Previous run 2026-11-25 (no runs logged 11-23/11-24): nothing new for year-1 money. TU Braunschweig Deutschlandstipendium: incoming WS starters
   may apply (guest account, school certificate), "International Students explicitly encouraged", 300 EUR x 2 sem, 2026 window 1-30 Jun -> mittel (MB German).
   HTWG Konstanz Dstip: conditional on admission, 2026 window 18 May-7 Jun -> mittel/spaeter. Uni Hamburg Dstip needs UHH enrolment (October call) -> spaeter.
   Uni Stuttgart 2027/28 call still not out. Bundestag kw46 page (Stand 24.11.): no vote on 21/8405. AA Vietnam Sperrkonto page names no amount.
@@ -177,3 +180,4 @@
 - 2026-11-22 – Daily run: nothing new for year 1; Uni Tuebingen 'Come to Stay' B1->C1 course (no Maschinenbau, mittel/niedrig), TUM Studienkolleg B2 (nein); BAfoeG no vote yet.
 - 2026-11-25 – Daily run: nothing new for year 1; Deutschlandstipendium TU Braunschweig (incoming students ok) and HTWG Konstanz (conditional on admission) added, Uni Hamburg needs enrolment; BAfoeG no vote yet.
 - 2026-11-25 – Owner asked for 2 runs per week: scheduled task changed to Mon + Thu 06:47 Vietnam time.
+- 2026-11-26 – Mon/Thu run: nothing new for year 1; Goettingen Deutschlandstipendium needs enrolment (spaeter), Stuttgart 2027/28 call not out yet; BAfoeG no vote yet.
