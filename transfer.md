@@ -100,8 +100,8 @@
 - DAAD winter/summer courses "mittel": need a certified B1 (max 1 year old),
   2 finished study years, enrolment abroad; joint/double degrees with German
   participation excluded (VGU may be affected - check).
-- **Daily scheduled task** "Tägliche Stipendien-Suche" runs every day at 06:47
-  (Asia/Ho_Chi_Minh), id `trig_01NHy4DuzJLeXd3TY1gtSCiP`. Runs are dated by Vietnam time
+- **Scheduled task** "Stipendien-Suche (Mo + Do)" runs Monday and Thursday at 06:47
+  (Asia/Ho_Chi_Minh; changed from daily on 2026-11-25), id `trig_01NHy4DuzJLeXd3TY1gtSCiP`. Runs are dated by Vietnam time
   (the container clock is UTC, one day behind at run time).
 - Conversation language: B1 German with English gloss after every B1/B2 word;
   known words in `bekannte-woerter.md` (still empty).
@@ -176,3 +176,4 @@
 - 2026-11-21 – Daily run: nothing new for year 1; TUM intl scholarship from 3rd semester, TUHH merit after 1st semester, BTU Bruecke window 1 Mar-15 Jul 2027; BAfoeG no vote yet.
 - 2026-11-22 – Daily run: nothing new for year 1; Uni Tuebingen 'Come to Stay' B1->C1 course (no Maschinenbau, mittel/niedrig), TUM Studienkolleg B2 (nein); BAfoeG no vote yet.
 - 2026-11-25 – Daily run: nothing new for year 1; Deutschlandstipendium TU Braunschweig (incoming students ok) and HTWG Konstanz (conditional on admission) added, Uni Hamburg needs enrolment; BAfoeG no vote yet.
+- 2026-11-25 – Owner asked for 2 runs per week: scheduled task changed to Mon + Thu 06:47 Vietnam time.

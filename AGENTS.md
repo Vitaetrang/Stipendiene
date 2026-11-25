@@ -1,6 +1,6 @@
 # AGENTS.md – Stipendiene (scholarship hunting for Germany)
 
-Rules for any agent (chat session or daily scheduled run) working in this repo.
+Rules for any agent (chat session or scheduled run) working in this repo.
 
 ## Goal
 Find **every realistic way to finance study and living in Germany** for the owner:
@@ -77,8 +77,8 @@ Track them in `scholarships.md`, keep `transfer.md` as the handoff for the next 
   append to the "Log" at the bottom (one line per run).
 - No personal data (full name, student ID, passport, email, phone) in any file.
 
-## Daily scheduled run
-A scheduled task runs once a day. It clones this repo, reads these three files,
+## Scheduled run (twice a week)
+A scheduled task runs twice a week (Monday and Thursday, 06:47 Vietnam time; changed 2026-11-25 on the owner's request). It clones this repo, reads these three files,
 searches for **new** opportunities and **changed deadlines**, updates the files,
 commits ("Stipendien-Update YYYY-MM-DD") and pushes to `main`, then sends the owner
 a short B1-German summary (max ~10 lines). If nothing new was found, say so in one line
